@@ -1,0 +1,42 @@
+Test case 1 results are correct:
+         613
+     1597714
+           1
+Test case 2 results are correct:
+          67
+   546706368
+           6
+Test case 3 results are correct:
+    57944160
+      955171
+          10
+Test case 4 results are correct:
+    47894473
+    58805573
+          18
+Test case 5 results are correct:
+       78626
+     3979636
+          19
+Test case 6 results are correct:
+           0
+   765032390
+           0
+Test case 7 results are correct:
+         266
+     6247366
+          12
+Test case 8 results are correct:
+       47108
+     7648119
+           5
+Test case 9 results are correct:
+          24
+       90135
+          -1
+Test case 10 results are correct:
+          65
+        5976
+          -1
+
+>> 1  Score: 100 / 100

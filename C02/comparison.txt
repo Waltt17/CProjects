@@ -1,0 +1,1808 @@
+Comparing profResults.txt to myResults.txt:
+
+First coordinate                        Second coordinate                   seconds    DMS
+   zero-point line
+-------------------------------------------------------------------------------------------------
+   zero-point line
+(104d 14m 10s W, 32d 25m 20s N)	(104d 18m 38s W, 32d 24m 42s N)        306    0d 05m 06s
+   score: 20 / 20
+(104d 27m 50s W, 32d 56m 35s N)	(104d 49m 12s W, 32d 24m 50s N)       3187    0d 53m 07s
+   score: 20 / 20
+(104d 47m 44s W, 32d 03m 42s N)	(104d 23m 58s W, 32d 50m 38s N)       4242    1d 10m 42s
+   score: 20 / 20
+(104d 05m 45s W, 32d 17m 10s N)	(104d 13m 06s W, 32d 26m 37s N)       1008    0d 16m 48s
+   score: 20 / 20
+(104d 30m 27s W, 32d 25m 33s N)	(104d 13m 26s W, 32d 24m 48s N)       1066    0d 17m 46s
+   score: 20 / 20
+(104d 24m 43s W, 32d 47m 44s N)	(104d 41m 00s W, 32d 12m 50s N)       3071    0d 51m 11s
+   score: 20 / 20
+(104d 33m 35s W, 32d 50m 47s N)	(103d 49m 18s W, 32d 01m 27s N)       5617    1d 33m 37s
+   score: 20 / 20
+(104d 24m 03s W, 32d 09m 37s N)	(103d 46m 26s W, 32d 03m 30s N)       2624    0d 43m 44s
+   score: 20 / 20
+(104d 42m 35s W, 32d 15m 41s N)	(104d 29m 55s W, 32d 27m 09s N)       1448    0d 24m 08s
+   score: 20 / 20
+(104d 31m 54s W, 32d 47m 03s N)	(104d 24m 28s W, 32d 50m 20s N)        643    0d 10m 43s
+   score: 20 / 20
+(103d 46m 57s W, 32d 30m 15s N)	(104d 25m 56s W, 32d 48m 07s N)       3411    0d 56m 51s
+   score: 20 / 20
+(104d 10m 33s W, 32d 51m 24s N)	(104d 13m 53s W, 32d 12m 51s N)       2513    0d 41m 53s
+   score: 20 / 20
+(104d 06m 42s W, 32d 10m 12s N)	(104d 24m 46s W, 32d 48m 47s N)       3399    0d 56m 39s
+   score: 20 / 20
+(104d 21m 13s W, 32d 24m 41s N)	(104d 05m 54s W, 32d 52m 06s N)       2564    0d 42m 44s
+   score: 20 / 20
+(104d 39m 58s W, 32d 20m 06s N)	(103d 59m 28s W, 32d 32m 39s N)       3183    0d 53m 03s
+   score: 20 / 20
+(104d 27m 21s W, 32d 47m 28s N)	(104d 27m 20s W, 32d 05m 59s N)       2490    0d 41m 30s
+   score: 20 / 20
+(104d 36m 56s W, 32d 11m 40s N)	(104d 25m 42s W, 32d 45m 34s N)       2708    0d 45m 08s
+   score: 20 / 20
+(104d 23m 53s W, 32d 50m 23s N)	(104d 06m 42s W, 32d 10m 12s N)       3442    0d 57m 22s
+   score: 20 / 20
+(104d 49m 29s W, 32d 15m 04s N)	(104d 35m 05s W, 32d 05m 15s N)       1453    0d 24m 13s
+   score: 20 / 20
+(104d 22m 18s W, 32d 28m 36s N)	(103d 52m 39s W, 32d 15m 44s N)       2551    0d 42m 31s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 31m 13s W, 32d 26m 43s N)       1106    0d 18m 26s
+   score: 20 / 20
+(104d 31m 31s W, 32d 28m 18s N)	(104d 20m 47s W, 32d 11m 07s N)       1675    0d 27m 55s
+   score: 20 / 20
+(103d 48m 50s W, 32d 09m 05s N)	(104d 07m 09s W, 32d 13m 31s N)       1365    0d 22m 45s
+   score: 20 / 20
+(104d 25m 45s W, 32d 49m 40s N)	(104d 09m 25s W, 32d 54m 15s N)       1255    0d 20m 55s
+   score: 20 / 20
+(104d 05m 45s W, 32d 17m 10s N)	(104d 11m 15s W, 32d 29m 45s N)       1085    0d 18m 05s
+   score: 20 / 20
+(104d 27m 27s W, 32d 18m 14s N)	(104d 45m 14s W, 32d 07m 34s N)       1707    0d 28m 27s
+   score: 20 / 20
+(104d 28m 52s W, 32d 25m 57s N)	(104d 00m 10s W, 32d 00m 40s N)       3239    0d 53m 59s
+   score: 20 / 20
+(104d 43m 40s W, 32d 01m 40s N)	(104d 12m 29s W, 32d 07m 00s N)       2191    0d 36m 31s
+   score: 20 / 20
+(104d 24m 47s W, 32d 49m 58s N)	(104d 00m 16s W, 32d 04m 24s N)       4205    1d 10m 05s
+   score: 20 / 20
+(103d 53m 13s W, 32d 17m 50s N)	(104d 06m 37s W, 32d 19m 52s N)        926    0d 15m 26s
+   score: 20 / 20
+(104d 33m 39s W, 32d 11m 07s N)	(103d 51m 04s W, 32d 11m 28s N)       2576    0d 42m 56s
+   score: 20 / 20
+(104d 04m 16s W, 32d 29m 47s N)	(104d 27m 37s W, 32d 06m 26s N)       2802    0d 46m 42s
+   score: 20 / 20
+(104d 48m 44s W, 32d 49m 57s N)	(104d 23m 41s W, 32d 47m 03s N)       1677    0d 27m 57s
+   score: 20 / 20
+(104d 25m 53s W, 32d 46m 20s N)	(104d 05m 54s W, 32d 52m 06s N)       1545    0d 25m 45s
+   score: 20 / 20
+(103d 58m 40s W, 32d 49m 08s N)	(104d 21m 01s W, 32d 35m 49s N)       2140    0d 35m 40s
+   score: 20 / 20
+(104d 22m 06s W, 32d 19m 57s N)	(104d 24m 07s W, 32d 29m 23s N)        687    0d 11m 27s
+   score: 20 / 20
+(104d 30m 48s W, 32d 12m 16s N)	(103d 56m 36s W, 32d 36m 04s N)       3480    0d 58m 00s
+   score: 20 / 20
+(103d 56m 13s W, 32d 24m 46s N)	(104d 45m 03s W, 32d 34m 13s N)       3497    0d 58m 17s
+   score: 20 / 20
+(104d 39m 26s W, 32d 25m 39s N)	(104d 17m 09s W, 32d 49m 41s N)       2779    0d 46m 19s
+   score: 20 / 20
+(104d 41m 07s W, 32d 11m 54s N)	(104d 45m 43s W, 32d 06m 00s N)        630    0d 10m 30s
+   score: 20 / 20
+(104d 23m 11s W, 32d 33m 11s N)	(104d 24m 10s W, 32d 50m 18s N)       1086    0d 18m 06s
+   score: 20 / 20
+(104d 43m 31s W, 32d 15m 23s N)	(104d 38m 18s W, 32d 14m 54s N)        342    0d 05m 42s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(103d 46m 52s W, 32d 06m 43s N)       2755    0d 45m 55s
+   score: 20 / 20
+(104d 46m 27s W, 32d 19m 34s N)	(104d 24m 12s W, 34d 50m 21s N)      10382    2d 53m 02s
+   score: 20 / 20
+(104d 02m 34s W, 32d 07m 50s N)	(104d 02m 48s W, 32d 29m 39s N)       1323    0d 22m 03s
+   score: 20 / 20
+(104d 42m 18s W, 32d 04m 32s N)	(104d 42m 46s W, 32d 07m 18s N)        194    0d 03m 14s
+   score: 20 / 20
+(104d 34m 36s W, 32d 00m 10s N)	(104d 25m 48s W, 32d 50m 12s N)       3530    0d 58m 50s
+   score: 20 / 20
+(104d 23m 26s W, 32d 33m 32s N)	(104d 45m 23s W, 32d 26m 19s N)       1750    0d 29m 10s
+   score: 20 / 20
+(104d 23m 00s W, 32d 26m 07s N)	(103d 46m 27s W, 32d 03m 09s N)       3571    0d 59m 31s
+   score: 20 / 20
+(104d 25m 15s W, 32d 45m 33s N)	(104d 36m 22s W, 32d 09m 06s N)       2854    0d 47m 34s
+   score: 20 / 20
+(104d 44m 56s W, 32d 26m 57s N)	(104d 23m 44s W, 32d 50m 04s N)       2659    0d 44m 19s
+   score: 20 / 20
+(104d 05m 53s W, 32d 25m 31s N)	(104d 37m 04s W, 32d 14m 38s N)       2524    0d 42m 04s
+   score: 20 / 20
+(104d 22m 38s W, 32d 48m 07s N)	(104d 28m 18s W, 32d 25m 05s N)       1722    0d 28m 42s
+   score: 20 / 20
+(103d 55m 55s W, 32d 52m 24s N)	(104d 24m 06s W, 32d 50m 21s N)       1814    0d 30m 14s
+   score: 20 / 20
+(104d 35m 05s W, 32d 05m 15s N)	(104d 34m 50s W, 32d 46m 37s N)       2497    0d 41m 37s
+   score: 20 / 20
+(104d 26m 51s W, 32d 50m 32s N)	(104d 24m 46s W, 32d 49m 39s N)        178    0d 02m 58s
+   score: 20 / 20
+(104d 46m 14s W, 32d 47m 54s N)	(104d 47m 15s W, 32d 20m 13s N)       1722    0d 28m 42s
+   score: 20 / 20
+(104d 25m 29s W, 32d 12m 11s N)	(104d 06m 26s W, 32d 06m 49s N)       1465    0d 24m 25s
+   score: 20 / 20
+(104d 24m 41s W, 32d 24m 08s N)	(104d 39m 28s W, 32d 25m 43s N)        982    0d 16m 22s
+   score: 20 / 20
+(103d 49m 36s W, 32d 09m 36s N)	(104d 33m 16s W, 32d 22m 32s N)       3396    0d 56m 36s
+   score: 20 / 20
+(104d 23m 11s W, 32d 51m 17s N)	(104d 47m 45s W, 32d 52m 40s N)       1557    0d 25m 57s
+   score: 20 / 20
+(104d 46m 25s W, 32d 12m 09s N)	(104d 27m 38s W, 32d 21m 01s N)       1659    0d 27m 39s
+   score: 20 / 20
+(104d 47m 41s W, 32d 08m 15s N)	(104d 32m 50s W, 32d 13m 16s N)       1192    0d 19m 52s
+   score: 20 / 20
+(104d 05m 53s W, 32d 02m 40s N)	(104d 39m 20s W, 32d 25m 50s N)       3397    0d 56m 37s
+   score: 20 / 20
+(104d 46m 25s W, 32d 01m 59s N)	(103d 58m 52s W, 32d 10m 58s N)       3392    0d 56m 32s
+   score: 20 / 20
+(104d 43m 36s W, 32d 41m 20s N)	(104d 43m 02s W, 32d 22m 23s N)       1171    0d 19m 31s
+   score: 20 / 20
+(104d 14m 10s W, 32d 26m 20s N)	(104d 28m 10s W, 32d 27m 00s N)        880    0d 14m 40s
+   score: 20 / 20
+(104d 19m 01s W, 32d 49m 00s N)	(103d 59m 28s W, 32d 32m 39s N)       2154    0d 35m 54s
+   score: 20 / 20
+(104d 01m 58s W, 32d 04m 54s N)	(104d 21m 32s W, 32d 23m 22s N)       2282    0d 38m 02s
+   score: 20 / 20
+(104d 09m 17s W, 32d 06m 51s N)	(104d 08m 20s W, 32d 30m 42s N)       1488    0d 24m 48s
+   score: 20 / 20
+(104d 47m 57s W, 32d 01m 03s N)	(104d 26m 19s W, 32d 47m 56s N)       4111    1d 08m 31s
+   score: 20 / 20
+(104d 13m 26s W, 32d 24m 48s N)	(104d 23m 23s W, 32d 33m 54s N)       1143    0d 19m 03s
+   score: 20 / 20
+(104d 37m 07s W, 32d 23m 02s N)	(104d 47m 05s W, 32d 08m 46s N)       1454    0d 24m 14s
+   score: 20 / 20
+(104d 12m 29s W, 32d 47m 39s N)	(104d 21m 32s W, 32d 23m 22s N)       2000    0d 33m 20s
+   score: 20 / 20
+(103d 46m 26s W, 32d 03m 30s N)	(104d 23m 16s W, 32d 55m 47s N)       5347    1d 29m 07s
+   score: 20 / 20
+(104d 26m 53s W, 32d 10m 49s N)	(104d 43m 49s W, 32d 15m 16s N)       1283    0d 21m 23s
+   score: 20 / 20
+(104d 33m 54s W, 32d 14m 11s N)	(104d 41m 07s W, 32d 11m 54s N)        570    0d 09m 30s
+   score: 20 / 20
+(104d 07m 06s W, 32d 35m 38s N)	(104d 34m 19s W, 32d 24m 42s N)       2289    0d 38m 09s
+   score: 20 / 20
+(104d 43m 57s W, 32d 05m 48s N)	(104d 18m 09s W, 32d 31m 34s N)       3094    0d 51m 34s
+   score: 20 / 20
+(104d 28m 34s W, 32d 48m 31s N)	(103d 53m 13s W, 32d 17m 52s N)       3960    1d 06m 00s
+   score: 20 / 20
+(103d 57m 56s W, 32d 35m 58s N)	(104d 32m 11s W, 32d 32m 04s N)       2289    0d 38m 09s
+   score: 20 / 20
+(104d 46m 08s W, 32d 06m 45s N)	(104d 39m 58s W, 32d 20m 06s N)       1171    0d 19m 31s
+   score: 20 / 20
+(104d 45m 11s W, 32d 13m 50s N)	(104d 22m 10s W, 32d 37m 56s N)       2827    0d 47m 07s
+   score: 20 / 20
+(104d 36m 28s W, 32d 18m 42s N)	(104d 23m 42s W, 32d 45m 37s N)       2381    0d 39m 41s
+   score: 20 / 20
+(104d 14m 18s W, 32d 24m 23s N)	(104d 00m 46s W, 32d 16m 39s N)       1276    0d 21m 16s
+   score: 20 / 20
+(104d 11m 33s W, 32d 30m 39s N)	(104d 34m 44s W, 32d 30m 00s N)       1430    0d 23m 50s
+   score: 20 / 20
+(104d 17m 52s W, 32d 21m 35s N)	(104d 29m 39s W, 32d 08m 52s N)       1470    0d 24m 30s
+   score: 20 / 20
+(104d 29m 49s W, 32d 03m 19s N)	(104d 45m 19s W, 32d 43m 15s N)       3326    0d 55m 26s
+   score: 20 / 20
+(103d 50m 32s W, 32d 09m 56s N)	(104d 23m 56s W, 32d 53m 05s N)       4593    1d 16m 33s
+   score: 20 / 20
+(104d 03m 25s W, 32d 11m 44s N)	(103d 59m 35s W, 32d 19m 25s N)        691    0d 11m 31s
+   score: 20 / 20
+(104d 34m 50s W, 32d 46m 37s N)	(103d 44m 15s W, 32d 16m 26s N)       4846    1d 20m 46s
+   score: 20 / 20
+(104d 48m 58s W, 32d 00m 50s N)	(104d 02m 25s W, 32d 04m 26s N)       3009    0d 50m 09s
+   score: 20 / 20
+(104d 09m 27s W, 32d 10m 00s N)	(103d 54m 39s W, 32d 19m 46s N)       1474    0d 24m 34s
+   score: 20 / 20
+(104d 22m 37s W, 32d 45m 03s N)	(104d 05m 45s W, 32d 17m 10s N)       2685    0d 44m 45s
+   score: 20 / 20
+(104d 03m 31s W, 32d 08m 14s N)	(104d 43m 16s W, 32d 07m 22s N)       2437    0d 40m 37s
+   score: 20 / 20
+(104d 26m 52s W, 32d 50m 57s N)	(104d 41m 37s W, 32d 41m 46s N)       1436    0d 23m 56s
+   score: 20 / 20
+(104d 25m 48s W, 32d 47m 29s N)	(104d 22m 57s W, 32d 48m 15s N)        217    0d 03m 37s
+   score: 20 / 20
+(104d 34m 08s W, 32d 32m 23s N)	(104d 25m 52s W, 32d 22m 59s N)       1060    0d 17m 40s
+   score: 20 / 20
+(104d 26m 14s W, 32d 51m 20s N)	(104d 31m 53s W, 32d 25m 59s N)       1860    0d 31m 00s
+   score: 20 / 20
+(104d 43m 24s W, 32d 57m 32s N)	(104d 43m 16s W, 32d 07m 22s N)       3018    0d 50m 18s
+   score: 20 / 20
+(104d 37m 54s W, 32d 20m 45s N)	(104d 29m 52s W, 32d 21m 10s N)        507    0d 08m 27s
+   score: 20 / 20
+(104d 25m 14s W, 32d 46m 37s N)	(104d 46m 31s W, 32d 25m 59s N)       2515    0d 41m 55s
+   score: 20 / 20
+(104d 28m 57s W, 32d 24m 16s N)	(104d 22m 36s W, 32d 10m 32s N)       1205    0d 20m 05s
+   score: 20 / 20
+(104d 41m 25s W, 32d 07m 09s N)	(103d 48m 51s W, 32d 19m 26s N)       3891    1d 04m 51s
+   score: 20 / 20
+(104d 23m 37s W, 32d 46m 41s N)	(104d 20m 54s W, 32d 08m 32s N)       2452    0d 40m 52s
+   score: 20 / 20
+(104d 23m 13s W, 32d 51m 15s N)	(104d 25m 10s W, 32d 49m 00s N)        252    0d 04m 12s
+   score: 20 / 20
+(103d 49m 51s W, 32d 13m 34s N)	(104d 32m 08s W, 32d 27m 09s N)       3352    0d 55m 52s
+   score: 20 / 20
+(104d 21m 31s W, 32d 10m 31s N)	(104d 02m 06s W, 32d 03m 09s N)       1607    0d 26m 47s
+   score: 20 / 20
+(104d 48m 53s W, 32d 13m 40s N)	(104d 22m 38s W, 32d 48m 07s N)       3642    1d 00m 42s
+   score: 20 / 20
+(104d 23m 22s W, 32d 12m 44s N)	(104d 02m 48s W, 32d 29m 39s N)       2249    0d 37m 29s
+   score: 20 / 20
+(103d 44m 50s W, 32d 27m 48s N)	(104d 10m 41s W, 32d 37m 24s N)       2127    0d 35m 27s
+   score: 20 / 20
+(103d 56m 52s W, 32d 36m 10s N)	(104d 24m 26s W, 32d 29m 20s N)       2064    0d 34m 24s
+   score: 20 / 20
+(104d 05m 45s W, 32d 17m 10s N)	(104d 07m 33s W, 32d 39m 58s N)       1476    0d 24m 36s
+   score: 20 / 20
+(104d 22m 28s W, 32d 32m 42s N)	(104d 40m 56s W, 32d 40m 44s N)       1590    0d 26m 30s
+   score: 20 / 20
+(104d 17m 55s W, 32d 41m 49s N)	(104d 23m 31s W, 32d 33m 50s N)        815    0d 13m 35s
+   score: 20 / 20
+(104d 46m 52s W, 31d 59m 00s N)	(104d 05m 45s W, 32d 17m 10s N)       3557    0d 59m 17s
+   score: 20 / 20
+(104d 28m 05s W, 32d 41m 53s N)	(104d 11m 57s W, 32d 30m 42s N)       1639    0d 27m 19s
+   score: 20 / 20
+(104d 17m 52s W, 32d 16m 58s N)	(104d 25m 32s W, 32d 50m 32s N)       2474    0d 41m 14s
+   score: 20 / 20
+(104d 12m 58s W, 32d 26m 37s N)	(103d 56m 14s W, 32d 24m 45s N)       1116    0d 18m 36s
+   score: 20 / 20
+(104d 23m 26s W, 32d 48m 14s N)	(104d 39m 50s W, 32d 10m 12s N)       3266    0d 54m 26s
+   score: 20 / 20
+(104d 14m 16s W, 32d 04m 55s N)	(104d 23m 48s W, 32d 29m 07s N)       2024    0d 33m 44s
+   score: 20 / 20
+(103d 56m 58s W, 32d 12m 46s N)	(103d 55m 12s W, 32d 00m 00s N)        872    0d 14m 32s
+   score: 20 / 20
+(104d 31m 57s W, 32d 11m 46s N)	(104d 03m 40s W, 32d 45m 01s N)       3692    1d 01m 32s
+   score: 20 / 20
+(104d 45m 14s W, 32d 07m 34s N)	(104d 24m 26s W, 32d 29m 20s N)       2554    0d 42m 34s
+   score: 20 / 20
+(104d 47m 14s W, 32d 10m 57s N)	(104d 43m 11s W, 32d 15m 12s N)        498    0d 08m 18s
+   score: 20 / 20
+(104d 22m 39s W, 32d 46m 15s N)	(104d 42m 43s W, 32d 10m 45s N)       3334    0d 55m 34s
+   score: 20 / 20
+(103d 56m 36s W, 32d 36m 04s N)	(104d 03m 05s W, 32d 32m 22s N)        611    0d 10m 11s
+   score: 20 / 20
+(104d 50m 40s W, 32d 01m 09s N)	(104d 39m 26s W, 32d 25m 39s N)       2144    0d 35m 44s
+   score: 20 / 20
+(104d 24m 10s W, 32d 50m 18s N)	(103d 49m 18s W, 32d 01m 27s N)       5023    1d 23m 43s
+   score: 20 / 20
+(104d 00m 05s W, 32d 03m 46s N)	(104d 10m 44s W, 32d 24m 31s N)       1884    0d 31m 24s
+   score: 20 / 20
+(104d 26m 52s W, 32d 50m 57s N)	(104d 48m 50s W, 32d 27m 01s N)       2754    0d 45m 54s
+   score: 20 / 20
+(103d 52m 50s W, 32d 21m 14s N)	(104d 24m 12s W, 32d 50m 32s N)       3640    1d 00m 40s
+   score: 20 / 20
+(104d 13m 13s W, 32d 25m 27s N)	(104d 13m 44s W, 32d 25m 14s N)         44    0d 00m 44s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 12m 37s W, 32d 23m 50s N)        151    0d 02m 31s
+   score: 20 / 20
+(104d 27m 08s W, 32d 20m 22s N)	(104d 31m 31s W, 32d 28m 18s N)        739    0d 12m 19s
+   score: 20 / 20
+(103d 59m 25s W, 32d 01m 29s N)	(104d 34m 04s W, 32d 45m 10s N)       4700    1d 18m 20s
+   score: 20 / 20
+(104d 28m 57s W, 32d 24m 16s N)	(104d 32m 56s W, 32d 38m 15s N)       1078    0d 17m 58s
+   score: 20 / 20
+(104d 11m 59s W, 32d 04m 43s N)	(104d 15m 00s W, 32d 03m 03s N)        281    0d 04m 41s
+   score: 20 / 20
+(104d 05m 45s W, 32d 17m 10s N)	(104d 03m 05s W, 32d 32m 22s N)       1072    0d 17m 52s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 35m 05s W, 32d 05m 15s N)       3370    0d 56m 10s
+   score: 20 / 20
+(104d 50m 32s W, 32d 02m 07s N)	(104d 14m 21s W, 32d 39m 50s N)       4434    1d 13m 54s
+   score: 20 / 20
+(104d 24m 06s W, 32d 45m 21s N)	(104d 41m 37s W, 32d 41m 46s N)       1266    0d 21m 06s
+   score: 20 / 20
+(104d 23m 31s W, 32d 26m 26s N)	(104d 19m 13s W, 32d 51m 06s N)       1738    0d 28m 58s
+   score: 20 / 20
+(104d 43m 02s W, 32d 22m 23s N)	(104d 47m 00s W, 32d 21m 07s N)        314    0d 05m 14s
+   score: 20 / 20
+(104d 23m 42s W, 32d 45m 46s N)	(104d 01m 52s W, 32d 18m 46s N)       2930    0d 48m 50s
+   score: 20 / 20
+(104d 44m 20s W, 32d 02m 01s N)	(104d 49m 41s W, 32d 26m 58s N)       1818    0d 30m 18s
+   score: 20 / 20
+(104d 24m 59s W, 32d 45m 09s N)	(104d 04m 05s W, 32d 12m 28s N)       3215    0d 53m 35s
+   score: 20 / 20
+(104d 24m 40s W, 32d 14m 54s N)	(104d 16m 11s W, 32d 22m 07s N)        942    0d 15m 42s
+   score: 20 / 20
+(104d 11m 48s W, 32d 35m 12s N)	(104d 16m 09s W, 32d 11m 36s N)       1677    0d 27m 57s
+   score: 20 / 20
+(104d 37m 51s W, 32d 20m 25s N)	(104d 26m 16s W, 32d 25m 27s N)        997    0d 16m 37s
+   score: 20 / 20
+(104d 25m 14s W, 32d 50m 15s N)	(104d 46m 52s W, 31d 59m 00s N)       4373    1d 12m 53s
+   score: 20 / 20
+(104d 02m 57s W, 32d 10m 32s N)	(104d 12m 11s W, 32d 23m 26s N)       1328    0d 22m 08s
+   score: 20 / 20
+(104d 30m 52s W, 32d 09m 53s N)	(104d 05m 36s W, 32d 01m 06s N)       2043    0d 34m 03s
+   score: 20 / 20
+(104d 21m 46s W, 32d 07m 35s N)	(103d 57m 34s W, 32d 21m 39s N)       2296    0d 38m 16s
+   score: 20 / 20
+(104d 10m 48s W, 32d 33m 11s N)	(104d 18m 09s W, 32d 31m 34s N)        538    0d 08m 58s
+   score: 20 / 20
+(104d 49m 18s W, 32d 15m 56s N)	(104d 48m 25s W, 32d 29m 16s N)        853    0d 14m 13s
+   score: 20 / 20
+(103d 57m 50s W, 32d 22m 13s N)	(104d 20m 37s W, 32d 12m 59s N)       1921    0d 32m 01s
+   score: 20 / 20
+(104d 34m 34s W, 32d 02m 31s N)	(104d 18m 41s W, 32d 16m 04s N)       1766    0d 29m 26s
+   score: 20 / 20
+(104d 50m 01s W, 32d 05m 06s N)	(104d 23m 17s W, 32d 50m 34s N)       4332    1d 12m 12s
+   score: 20 / 20
+(104d 48m 24s W, 32d 09m 30s N)	(103d 46m 51s W, 32d 14m 21s N)       3984    1d 06m 24s
+   score: 20 / 20
+(104d 30m 41s W, 32d 02m 58s N)	(104d 22m 49s W, 32d 47m 45s N)       3159    0d 52m 39s
+   score: 20 / 20
+(104d 25m 48s W, 32d 50m 22s N)	(103d 46m 43s W, 32d 01m 41s N)       5266    1d 27m 46s
+   score: 20 / 20
+(104d 32m 13s W, 32d 21m 01s N)	(104d 26m 19s W, 32d 28m 01s N)        774    0d 12m 54s
+   score: 20 / 20
+(104d 11m 09s W, 32d 33m 44s N)	(104d 05m 45s W, 32d 17m 10s N)       1318    0d 21m 58s
+   score: 20 / 20
+(103d 52m 50s W, 32d 21m 14s N)	(104d 45m 43s W, 32d 06m 00s N)       4087    1d 08m 07s
+   score: 20 / 20
+(104d 23m 44s W, 32d 48m 14s N)	(104d 21m 08s W, 32d 41m 36s N)        554    0d 09m 14s
+   score: 20 / 20
+(104d 22m 57s W, 32d 47m 03s N)	(103d 54m 07s W, 32d 21m 47s N)       3246    0d 54m 06s
+   score: 20 / 20
+(104d 46m 56s W, 32d 12m 53s N)	(103d 57m 50s W, 32d 22m 13s N)       3506    0d 58m 26s
+   score: 20 / 20
+(104d 20m 54s W, 32d 11m 01s N)	(104d 23m 32s W, 32d 26m 22s N)       1079    0d 17m 59s
+   score: 20 / 20
+(104d 41m 09s W, 32d 45m 05s N)	(104d 25m 49s W, 32d 47m 29s N)       1064    0d 17m 44s
+   score: 20 / 20
+(104d 23m 26s W, 32d 33m 32s N)	(103d 58m 11s W, 32d 40m 15s N)       1918    0d 31m 58s
+   score: 20 / 20
+(104d 16m 19s W, 32d 11m 09s N)	(104d 43m 39s W, 32d 08m 19s N)       1810    0d 30m 10s
+   score: 20 / 20
+(103d 59m 03s W, 32d 55m 21s N)	(103d 46m 57s W, 32d 10m 34s N)       3413    0d 56m 53s
+   score: 20 / 20
+(104d 44m 26s W, 32d 10m 49s N)	(104d 13m 02s W, 32d 46m 00s N)       3995    1d 06m 35s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 22m 39s W, 32d 45m 01s N)        424    0d 07m 04s
+   score: 20 / 20
+(104d 10m 43s W, 32d 18m 18s N)	(104d 29m 11s W, 32d 49m 30s N)       2980    0d 49m 40s
+   score: 20 / 20
+(104d 24m 33s W, 32d 35m 41s N)	(104d 20m 32s W, 32d 14m 45s N)       1497    0d 24m 57s
+   score: 20 / 20
+(104d 27m 23s W, 32d 14m 13s N)	(104d 39m 28s W, 32d 11m 47s N)        871    0d 14m 31s
+   score: 20 / 20
+(104d 29m 11s W, 32d 29m 08s N)	(104d 46m 31s W, 32d 25m 59s N)       1229    0d 20m 29s
+   score: 20 / 20
+(104d 48m 44s W, 32d 49m 57s N)	(104d 23m 44s W, 32d 48m 34s N)       1583    0d 26m 23s
+   score: 20 / 20
+(104d 43m 04s W, 32d 14m 03s N)	(104d 14m 10s W, 32d 25m 20s N)       2411    0d 40m 11s
+   score: 20 / 20
+(104d 05m 31s W, 32d 38m 57s N)	(104d 34m 08s W, 32d 32m 23s N)       2111    0d 35m 11s
+   score: 20 / 20
+(104d 24m 32s W, 32d 45m 21s N)	(104d 42m 51s W, 32d 06m 59s N)       3401    0d 56m 41s
+   score: 20 / 20
+(104d 25m 56s W, 32d 22m 55s N)	(104d 05m 20s W, 32d 11m 51s N)       1900    0d 31m 40s
+   score: 20 / 20
+(104d 31m 13s W, 32d 26m 43s N)	(104d 42m 38s W, 32d 12m 39s N)       1529    0d 25m 29s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 49m 31s W, 32d 09m 48s N)       3963    1d 06m 03s
+   score: 20 / 20
+(103d 44m 20s W, 32d 31m 04s N)	(104d 20m 42s W, 32d 14m 49s N)       3157    0d 52m 37s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 46m 52s W, 32d 17m 58s N)       3314    0d 55m 14s
+   score: 20 / 20
+(104d 10m 24s W, 32d 40m 40s N)	(104d 15m 52s W, 32d 26m 40s N)       1168    0d 19m 28s
+   score: 20 / 20
+(104d 24m 46s W, 32d 48m 07s N)	(104d 22m 50s W, 32d 27m 45s N)       1338    0d 22m 18s
+   score: 20 / 20
+(104d 22m 36s W, 32d 10m 32s N)	(104d 20m 50s W, 32d 35m 42s N)       1616    0d 26m 56s
+   score: 20 / 20
+(104d 24m 54s W, 32d 50m 34s N)	(104d 21m 09s W, 32d 01m 22s N)       3177    0d 52m 57s
+   score: 20 / 20
+(104d 25m 44s W, 32d 49m 36s N)	(103d 55m 37s W, 32d 09m 01s N)       4242    1d 10m 42s
+   score: 20 / 20
+(104d 33m 04s W, 32d 17m 57s N)	(104d 23m 48s W, 32d 51m 04s N)       2543    0d 42m 23s
+   score: 20 / 20
+(104d 28m 24s W, 32d 22m 46s N)	(104d 24m 13s W, 32d 46m 53s N)       1698    0d 28m 18s
+   score: 20 / 20
+(104d 21m 50s W, 32d 16m 43s N)	(104d 24m 12s W, 32d 50m 32s N)       2171    0d 36m 11s
+   score: 20 / 20
+(103d 57m 42s W, 32d 43m 35s N)	(104d 34m 23s W, 32d 07m 56s N)       4340    1d 12m 20s
+   score: 20 / 20
+(104d 10m 41s W, 32d 37m 24s N)	(104d 16m 59s W, 32d 08m 47s N)       2095    0d 34m 55s
+   score: 20 / 20
+(104d 33m 04s W, 32d 17m 57s N)	(104d 35m 25s W, 32d 35m 42s N)       1206    0d 20m 06s
+   score: 20 / 20
+(103d 55m 39s W, 32d 38m 00s N)	(103d 56m 58s W, 32d 12m 46s N)       1593    0d 26m 33s
+   score: 20 / 20
+(104d 14m 52s W, 32d 39m 17s N)	(104d 23m 22s W, 32d 12m 44s N)       2103    0d 35m 03s
+   score: 20 / 20
+(104d 48m 24s W, 32d 09m 30s N)	(104d 35m 05s W, 32d 05m 15s N)       1054    0d 17m 34s
+   score: 20 / 20
+(104d 06m 17s W, 32d 05m 57s N)	(104d 46m 16s W, 32d 05m 58s N)       2400    0d 40m 00s
+   score: 20 / 20
+(104d 50m 04s W, 32d 25m 59s N)	(104d 31m 46s W, 32d 12m 08s N)       1929    0d 32m 09s
+   score: 20 / 20
+(104d 19m 30s W, 32d 44m 47s N)	(104d 30m 02s W, 32d 32m 08s N)       1391    0d 23m 11s
+   score: 20 / 20
+(104d 47m 05s W, 32d 08m 46s N)	(104d 31m 27s W, 32d 04m 48s N)       1176    0d 19m 36s
+   score: 20 / 20
+(104d 11m 20s W, 32d 19m 06s N)	(103d 55m 39s W, 32d 38m 00s N)       2075    0d 34m 35s
+   score: 20 / 20
+(104d 24m 29s W, 32d 35m 42s N)	(104d 48m 53s W, 32d 13m 40s N)       2786    0d 46m 26s
+   score: 20 / 20
+(104d 04m 38s W, 32d 44m 23s N)	(104d 06m 10s W, 32d 21m 46s N)       1449    0d 24m 09s
+   score: 20 / 20
+(104d 12m 58s W, 32d 26m 37s N)	(103d 46m 57s W, 32d 10m 34s N)       2524    0d 42m 04s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 51s N)	(104d 11m 48s W, 32d 35m 12s N)        677    0d 11m 17s
+   score: 20 / 20
+(104d 47m 57s W, 32d 07m 13s N)	(104d 36m 11s W, 32d 32m 07s N)       2200    0d 36m 40s
+   score: 20 / 20
+(104d 02m 57s W, 32d 10m 32s N)	(104d 15m 00s W, 32d 03m 03s N)       1172    0d 19m 32s
+   score: 20 / 20
+(104d 34m 28s W, 32d 28m 00s N)	(104d 35m 15s W, 32d 07m 23s N)       1284    0d 21m 24s
+   score: 20 / 20
+(104d 10m 41s W, 32d 30m 29s N)	(104d 33m 59s W, 32d 18m 21s N)       2126    0d 35m 26s
+   score: 20 / 20
+(104d 24m 12s W, 32d 45m 51s N)	(104d 11m 51s W, 32d 07m 00s N)       3072    0d 51m 12s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 12m 29s W, 32d 07m 00s N)       3315    0d 55m 15s
+   score: 20 / 20
+(104d 28m 29s W, 32d 27m 38s N)	(104d 31m 31s W, 32d 28m 18s N)        222    0d 03m 42s
+   score: 20 / 20
+(103d 56m 19s W, 32d 29m 23s N)	(104d 46m 26s W, 32d 52m 46s N)       4410    1d 13m 30s
+   score: 20 / 20
+(104d 13m 07s W, 32d 24m 22s N)	(104d 24m 10s W, 32d 50m 18s N)       2219    0d 36m 59s
+   score: 20 / 20
+(104d 42m 33s W, 32d 57m 19s N)	(104d 11m 06s W, 32d 55m 20s N)       2006    0d 33m 26s
+   score: 20 / 20
+(104d 12m 29s W, 32d 47m 39s N)	(104d 27m 41s W, 32d 18m 14s N)       2677    0d 44m 37s
+   score: 20 / 20
+(104d 33m 45s W, 32d 26m 49s N)	(104d 46m 09s W, 32d 02m 41s N)       2192    0d 36m 32s
+   score: 20 / 20
+(104d 28m 47s W, 32d 04m 01s N)	(104d 30m 21s W, 32d 31m 36s N)       1749    0d 29m 09s
+   score: 20 / 20
+(104d 45m 54s W, 32d 57m 28s N)	(104d 30m 57s W, 32d 36m 50s N)       2135    0d 35m 35s
+   score: 20 / 20
+(104d 33m 32s W, 32d 50m 58s N)	(104d 46m 51s W, 32d 34m 33s N)       1784    0d 29m 44s
+   score: 20 / 20
+(104d 24m 43s W, 32d 47m 44s N)	(103d 44m 50s W, 32d 27m 48s N)       3589    0d 59m 49s
+   score: 20 / 20
+(104d 05m 31s W, 32d 10m 23s N)	(104d 07m 38s W, 32d 06m 05s N)        385    0d 06m 25s
+   score: 20 / 20
+(104d 14m 08s W, 32d 26m 10s N)	(104d 43m 09s W, 32d 07m 16s N)       2875    0d 47m 55s
+   score: 20 / 20
+(104d 13m 17s W, 32d 26m 53s N)	(104d 25m 46s W, 32d 46m 12s N)       1908    0d 31m 48s
+   score: 20 / 20
+(104d 06m 40s W, 32d 20m 06s N)	(104d 21m 52s W, 32d 17m 16s N)       1082    0d 18m 02s
+   score: 20 / 20
+(104d 26m 51s W, 32d 48m 48s N)	(104d 46m 31s W, 32d 25m 59s N)       2549    0d 42m 29s
+   score: 20 / 20
+(103d 52m 08s W, 32d 37m 34s N)	(104d 31m 05s W, 32d 20m 48s N)       3343    0d 55m 43s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 25m 15s W, 32d 50m 32s N)         63    0d 01m 03s
+   score: 20 / 20
+(104d 21m 01s W, 32d 35m 49s N)	(104d 09m 25s W, 32d 54m 15s N)       1802    0d 30m 02s
+   score: 20 / 20
+(104d 13m 54s W, 32d 24m 29s N)	(104d 22m 42s W, 32d 50m 06s N)       2065    0d 34m 25s
+   score: 20 / 20
+(104d 27m 18s W, 32d 18m 04s N)	(103d 56m 11s W, 32d 49m 48s N)       3771    1d 02m 51s
+   score: 20 / 20
+(104d 49m 55s W, 32d 01m 47s N)	(104d 44m 14s W, 32d 12m 02s N)        956    0d 15m 56s
+   score: 20 / 20
+(103d 57m 58s W, 32d 40m 11s N)	(104d 42m 29s W, 32d 15m 54s N)       4128    1d 08m 48s
+   score: 20 / 20
+(104d 48m 53s W, 32d 13m 40s N)	(103d 49m 00s W, 32d 28m 38s N)       4491    1d 14m 51s
+   score: 20 / 20
+(103d 59m 00s W, 32d 20m 59s N)	(104d 27m 40s W, 32d 56m 42s N)       3863    1d 04m 23s
+   score: 20 / 20
+(104d 24m 43s W, 32d 50m 23s N)	(104d 29m 50s W, 32d 20m 24s N)       2106    0d 35m 06s
+   score: 20 / 20
+(104d 43m 17s W, 32d 29m 46s N)	(104d 05m 53s W, 32d 02m 40s N)       3870    1d 04m 30s
+   score: 20 / 20
+(104d 28m 17s W, 32d 03m 45s N)	(104d 21m 41s W, 32d 28m 20s N)       1871    0d 31m 11s
+   score: 20 / 20
+(104d 24m 07s W, 32d 50m 34s N)	(104d 02m 06s W, 32d 03m 09s N)       4166    1d 09m 26s
+   score: 20 / 20
+(104d 24m 13s W, 32d 45m 47s N)	(104d 21m 46s W, 32d 07m 35s N)       2439    0d 40m 39s
+   score: 20 / 20
+(104d 24m 34s W, 32d 47m 52s N)	(104d 29m 52s W, 32d 21m 10s N)       1920    0d 32m 00s
+   score: 20 / 20
+(103d 48m 36s W, 32d 19m 38s N)	(104d 33m 16s W, 32d 22m 32s N)       2854    0d 47m 34s
+   score: 20 / 20
+(104d 14m 17s W, 32d 10m 10s N)	(104d 23m 41s W, 32d 50m 24s N)       2978    0d 49m 38s
+   score: 20 / 20
+(104d 08m 24s W, 32d 30m 21s N)	(104d 34m 45s W, 32d 33m 23s N)       1763    0d 29m 23s
+   score: 20 / 20
+(104d 14m 48s W, 32d 26m 40s N)	(104d 24m 10s W, 32d 50m 18s N)       1980    0d 33m 00s
+   score: 20 / 20
+(103d 50m 45s W, 32d 01m 24s N)	(104d 08m 47s W, 32d 11m 27s N)       1685    0d 28m 05s
+   score: 20 / 20
+(103d 58m 04s W, 32d 11m 11s N)	(104d 13m 14s W, 32d 15m 24s N)       1163    0d 19m 23s
+   score: 20 / 20
+(104d 22m 44s W, 32d 27m 55s N)	(104d 24m 12s W, 32d 50m 32s N)       1445    0d 24m 05s
+   score: 20 / 20
+(104d 13m 54s W, 32d 24m 29s N)	(104d 34m 36s W, 32d 00m 10s N)       2701    0d 45m 01s
+   score: 20 / 20
+(104d 24m 15s W, 32d 49m 45s N)	(104d 23m 32s W, 32d 26m 22s N)       1446    0d 24m 06s
+   score: 20 / 20
+(104d 35m 51s W, 32d 16m 10s N)	(104d 24m 12s W, 34d 50m 21s N)       9950    2d 45m 50s
+   score: 20 / 20
+(104d 31m 13s W, 32d 26m 43s N)	(104d 23m 00s W, 32d 09m 48s N)       1508    0d 25m 08s
+   score: 20 / 20
+(104d 27m 26s W, 32d 45m 43s N)	(104d 24m 28s W, 32d 50m 20s N)        455    0d 07m 35s
+   score: 20 / 20
+(104d 28m 38s W, 32d 09m 10s N)	(104d 47m 05s W, 32d 08m 46s N)       1131    0d 18m 51s
+   score: 20 / 20
+(104d 24m 46s W, 32d 48m 34s N)	(104d 41m 52s W, 32d 40m 05s N)       1535    0d 25m 35s
+   score: 20 / 20
+(104d 07m 38s W, 32d 06m 05s N)	(103d 59m 36s W, 32d 47m 29s N)       2966    0d 49m 26s
+   score: 20 / 20
+(104d 23m 07s W, 32d 43m 53s N)	(104d 07m 29s W, 32d 11m 13s N)       2898    0d 48m 18s
+   score: 20 / 20
+(104d 42m 35s W, 32d 15m 41s N)	(104d 36m 01s W, 32d 12m 50s N)        565    0d 09m 25s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 42m 25s W, 32d 42m 26s N)       1579    0d 26m 19s
+   score: 20 / 20
+(104d 41m 09s W, 32d 02m 26s N)	(104d 19m 08s W, 32d 10m 37s N)       1812    0d 30m 12s
+   score: 20 / 20
+(104d 20m 23s W, 32d 02m 52s N)	(104d 29m 59s W, 32d 10m 25s N)       1029    0d 17m 09s
+   score: 20 / 20
+(104d 15m 14s W, 32d 29m 24s N)	(104d 30m 27s W, 32d 25m 33s N)       1144    0d 19m 04s
+   score: 20 / 20
+(104d 31m 05s W, 32d 20m 48s N)	(104d 21m 01s W, 32d 08m 25s N)       1347    0d 22m 27s
+   score: 20 / 20
+(104d 16m 07s W, 32d 16m 00s N)	(104d 25m 15s W, 32d 28m 49s N)       1317    0d 21m 57s
+   score: 20 / 20
+(104d 23m 05s W, 32d 50m 04s N)	(104d 47m 56s W, 32d 16m 21s N)       3514    0d 58m 34s
+   score: 20 / 20
+(103d 54m 39s W, 32d 19m 46s N)	(104d 13m 44s W, 32d 25m 14s N)       1473    0d 24m 33s
+   score: 20 / 20
+(104d 24m 46s W, 32d 48m 07s N)	(104d 36m 11s W, 32d 32m 07s N)       1645    0d 27m 25s
+   score: 20 / 20
+(104d 41m 29s W, 32d 02m 10s N)	(103d 55m 10s W, 32d 34m 08s N)       4697    1d 18m 17s
+   score: 20 / 20
+(104d 15m 11s W, 32d 12m 06s N)	(104d 33m 25s W, 32d 16m 18s N)       1346    0d 22m 26s
+   score: 20 / 20
+(104d 13m 48s W, 32d 53m 06s N)	(104d 26m 53s W, 32d 10m 49s N)       3322    0d 55m 22s
+   score: 20 / 20
+(104d 46m 31s W, 32d 03m 22s N)	(103d 44m 28s W, 32d 00m 44s N)       3881    1d 04m 41s
+   score: 20 / 20
+(104d 34m 28s W, 32d 28m 00s N)	(104d 22m 57s W, 32d 48m 15s N)       1906    0d 31m 46s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 09m 32s W, 32d 09m 56s N)       3316    0d 55m 16s
+   score: 20 / 20
+(104d 05m 51s W, 32d 17m 14s N)	(104d 37m 54s W, 32d 20m 45s N)       2134    0d 35m 34s
+   score: 20 / 20
+(104d 34m 08s W, 32d 32m 23s N)	(104d 49m 23s W, 32d 02m 06s N)       2732    0d 45m 32s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 05m 31s W, 32d 10m 23s N)       3530    0d 58m 50s
+   score: 20 / 20
+(103d 58m 11s W, 32d 40m 15s N)	(104d 13m 44s W, 32d 25m 14s N)       1834    0d 30m 34s
+   score: 20 / 20
+(104d 39m 10s W, 32d 54m 04s N)	(104d 39m 11s W, 32d 36m 05s N)       1080    0d 18m 00s
+   score: 20 / 20
+(104d 26m 38s W, 32d 10m 31s N)	(104d 24m 42s W, 32d 50m 57s N)       2542    0d 42m 22s
+   score: 20 / 20
+(104d 48m 44s W, 32d 49m 57s N)	(104d 23m 41s W, 32d 47m 03s N)       1677    0d 27m 57s
+   score: 20 / 20
+(104d 23m 56s W, 32d 53m 05s N)	(104d 04m 23s W, 32d 13m 33s N)       3545    0d 59m 05s
+   score: 20 / 20
+(104d 34m 32s W, 32d 17m 09s N)	(104d 08m 58s W, 32d 34m 47s N)       2592    0d 43m 12s
+   score: 20 / 20
+(104d 23m 58s W, 32d 50m 38s N)	(104d 37m 21s W, 32d 38m 46s N)       1515    0d 25m 15s
+   score: 20 / 20
+(103d 56m 17s W, 32d 29m 24s N)	(103d 59m 42s W, 32d 33m 46s N)        467    0d 07m 47s
+   score: 20 / 20
+(103d 57m 58s W, 32d 40m 11s N)	(103d 58m 48s W, 32d 01m 17s N)       2384    0d 39m 44s
+   score: 20 / 20
+(104d 36m 04s W, 32d 14m 28s N)	(104d 22m 42s W, 32d 48m 21s N)       2835    0d 47m 15s
+   score: 20 / 20
+(104d 09m 45s W, 32d 55m 32s N)	(104d 27m 05s W, 32d 48m 44s N)       1448    0d 24m 08s
+   score: 20 / 20
+(104d 37m 47s W, 32d 00m 22s N)	(104d 02m 06s W, 32d 03m 09s N)       2308    0d 38m 28s
+   score: 20 / 20
+(104d 06m 17s W, 32d 05m 57s N)	(104d 20m 54s W, 32d 11m 01s N)       1181    0d 19m 41s
+   score: 20 / 20
+(104d 31m 27s W, 32d 04m 48s N)	(104d 25m 42s W, 32d 45m 34s N)       2791    0d 46m 31s
+   score: 20 / 20
+(104d 33m 39s W, 32d 11m 07s N)	(104d 25m 18s W, 32d 35m 42s N)       1976    0d 32m 56s
+   score: 20 / 20
+(104d 03m 27s W, 32d 19m 39s N)	(104d 27m 53s W, 32d 56m 34s N)       3681    1d 01m 21s
+   score: 20 / 20
+(104d 14m 04s W, 32d 27m 36s N)	(104d 14m 56s W, 32d 10m 43s N)       1065    0d 17m 45s
+   score: 20 / 20
+(104d 23m 33s W, 32d 20m 41s N)	(103d 20m 51s W, 34d 10m 38s N)      10359    2d 52m 39s
+   score: 20 / 20
+(104d 22m 00s W, 32d 59m 53s N)	(104d 05m 45s W, 32d 17m 10s N)       3538    0d 58m 58s
+   score: 20 / 20
+(103d 52m 39s W, 32d 15m 44s N)	(104d 05m 34s W, 32d 34m 22s N)       1893    0d 31m 33s
+   score: 20 / 20
+(104d 15m 10s W, 32d 12m 35s N)	(104d 24m 18s W, 32d 50m 18s N)       2811    0d 46m 51s
+   score: 20 / 20
+(104d 25m 53s W, 32d 46m 20s N)	(104d 25m 08s W, 32d 45m 02s N)        123    0d 02m 03s
+   score: 20 / 20
+(104d 42m 24s W, 32d 00m 44s N)	(104d 49m 55s W, 32d 01m 47s N)        514    0d 08m 34s
+   score: 20 / 20
+(104d 23m 22s W, 32d 47m 54s N)	(103d 54m 53s W, 32d 21m 44s N)       3279    0d 54m 39s
+   score: 20 / 20
+(104d 15m 41s W, 32d 46m 46s N)	(104d 32m 56s W, 32d 23m 41s N)       2420    0d 40m 20s
+   score: 20 / 20
+(104d 34m 06s W, 32d 11m 29s N)	(104d 24m 30s W, 32d 49m 33s N)       2860    0d 47m 40s
+   score: 20 / 20
+(104d 29m 09s W, 32d 27m 41s N)	(103d 55m 51s W, 32d 48m 03s N)       3220    0d 53m 40s
+   score: 20 / 20
+(104d 41m 10s W, 32d 14m 09s N)	(104d 45m 14s W, 32d 07m 34s N)        639    0d 10m 39s
+   score: 20 / 20
+(104d 08m 21s W, 32d 50m 28s N)	(104d 33m 04s W, 32d 17m 57s N)       3434    0d 57m 14s
+   score: 20 / 20
+(104d 30m 14s W, 32d 36m 22s N)	(104d 30m 48s W, 32d 12m 48s N)       1448    0d 24m 08s
+   score: 20 / 20
+(104d 44m 05s W, 32d 03m 27s N)	(104d 19m 15s W, 32d 16m 43s N)       2286    0d 38m 06s
+   score: 20 / 20
+(104d 51m 12s W, 32d 07m 12s N)	(103d 59m 28s W, 32d 32m 39s N)       4631    1d 17m 11s
+   score: 20 / 20
+(104d 35m 11s W, 32d 39m 03s N)	(104d 31m 27s W, 32d 04m 48s N)       2279    0d 37m 59s
+   score: 20 / 20
+(104d 15m 22s W, 32d 23m 05s N)	(104d 16m 09s W, 32d 11m 36s N)        736    0d 12m 16s
+   score: 20 / 20
+(103d 49m 48s W, 32d 13m 41s N)	(104d 15m 46s W, 32d 20m 53s N)       1990    0d 33m 10s
+   score: 20 / 20
+(104d 25m 48s W, 32d 50m 12s N)	(104d 29m 09s W, 32d 27m 41s N)       1552    0d 25m 52s
+   score: 20 / 20
+(103d 49m 18s W, 32d 01m 27s N)	(104d 08m 51s W, 32d 08m 17s N)       1583    0d 26m 23s
+   score: 20 / 20
+(104d 50m 13s W, 32d 12m 19s N)	(104d 37m 07s W, 32d 23m 02s N)       1429    0d 23m 49s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 29m 01s W, 32d 21m 23s N)       1128    0d 18m 48s
+   score: 20 / 20
+(104d 18m 41s W, 32d 16m 04s N)	(104d 11m 00s W, 32d 31m 46s N)       1403    0d 23m 23s
+   score: 20 / 20
+(104d 44m 20s W, 32d 51m 45s N)	(104d 13m 44s W, 32d 25m 14s N)       3427    0d 57m 07s
+   score: 20 / 20
+(104d 26m 54s W, 32d 07m 12s N)	(104d 09m 27s W, 32d 10m 00s N)       1215    0d 20m 15s
+   score: 20 / 20
+(104d 17m 11s W, 32d 26m 59s N)	(103d 59m 25s W, 32d 01m 29s N)       2596    0d 43m 16s
+   score: 20 / 20
+(104d 46m 56s W, 32d 12m 53s N)	(103d 53m 55s W, 32d 27m 52s N)       4080    1d 08m 00s
+   score: 20 / 20
+(104d 41m 26s W, 32d 10m 04s N)	(104d 20m 16s W, 32d 37m 58s N)       2944    0d 49m 04s
+   score: 20 / 20
+(104d 26m 14s W, 32d 51m 20s N)	(104d 47m 45s W, 32d 52m 40s N)       1371    0d 22m 51s
+   score: 20 / 20
+(104d 50m 01s W, 32d 05m 06s N)	(104d 03m 57s W, 32d 13m 15s N)       3253    0d 54m 13s
+   score: 20 / 20
+(104d 24m 15s W, 32d 48m 08s N)	(104d 21m 52s W, 32d 17m 16s N)       1995    0d 33m 15s
+   score: 20 / 20
+(104d 16m 56s W, 32d 26m 38s N)	(104d 13m 44s W, 32d 25m 14s N)        276    0d 04m 36s
+   score: 20 / 20
+(104d 41m 37s W, 32d 41m 46s N)	(104d 29m 11s W, 32d 29m 08s N)       1504    0d 25m 04s
+   score: 20 / 20
+(104d 05m 45s W, 32d 17m 10s N)	(104d 16m 31s W, 32d 19m 44s N)        800    0d 13m 20s
+   score: 20 / 20
+(104d 09m 45s W, 32d 55m 32s N)	(104d 23m 42s W, 32d 45m 37s N)       1432    0d 23m 52s
+   score: 20 / 20
+(104d 25m 32s W, 32d 50m 32s N)	(104d 33m 54s W, 32d 14m 11s N)       2683    0d 44m 43s
+   score: 20 / 20
+(103d 50m 18s W, 32d 05m 03s N)	(104d 41m 47s W, 32d 14m 40s N)       3666    1d 01m 06s
+   score: 20 / 20
+(104d 36m 22s W, 32d 09m 06s N)	(104d 03m 40s W, 32d 45m 01s N)       4117    1d 08m 37s
+   score: 20 / 20
+(104d 04m 39s W, 32d 24m 13s N)	(104d 42m 43s W, 32d 10m 45s N)       3092    0d 51m 32s
+   score: 20 / 20
+(104d 36m 51s W, 32d 00m 31s N)	(104d 43m 02s W, 32d 35m 59s N)       2499    0d 41m 39s
+   score: 20 / 20
+(104d 34m 30s W, 32d 00m 12s N)	(104d 29m 20s W, 32d 07m 11s N)        729    0d 12m 09s
+   score: 20 / 20
+(104d 03m 30s W, 32d 19m 07s N)	(104d 23m 59s W, 32d 49m 12s N)       3034    0d 50m 34s
+   score: 20 / 20
+(104d 23m 08s W, 32d 50m 04s N)	(104d 33m 48s W, 32d 14m 06s N)       2798    0d 46m 38s
+   score: 20 / 20
+(104d 09m 05s W, 32d 34m 31s N)	(103d 58m 40s W, 32d 49m 08s N)       1502    0d 25m 02s
+   score: 20 / 20
+(104d 32m 13s W, 32d 21m 01s N)	(104d 26m 23s W, 32d 28m 17s N)        786    0d 13m 06s
+   score: 20 / 20
+(104d 28m 29s W, 32d 27m 38s N)	(104d 13m 44s W, 32d 25m 14s N)       1029    0d 17m 09s
+   score: 20 / 20
+(104d 47m 20s W, 32d 11m 12s N)	(104d 33m 44s W, 32d 20m 08s N)       1352    0d 22m 32s
+   score: 20 / 20
+(104d 32m 56s W, 32d 38m 15s N)	(104d 50m 04s W, 32d 26m 11s N)       1752    0d 29m 12s
+   score: 20 / 20
+(104d 24m 08s W, 32d 50m 27s N)	(104d 05m 45s W, 32d 17m 10s N)       3100    0d 51m 40s
+   score: 20 / 20
+(104d 25m 36s W, 32d 50m 48s N)	(104d 32m 18s W, 32d 17m 40s N)       2390    0d 39m 50s
+   score: 20 / 20
+(104d 49m 43s W, 32d 20m 02s N)	(104d 22m 42s W, 32d 49m 58s N)       3417    0d 56m 57s
+   score: 20 / 20
+(104d 42m 33s W, 32d 57m 19s N)	(104d 41m 08s W, 32d 07m 31s N)       3073    0d 51m 13s
+   score: 20 / 20
+(104d 36m 18s W, 32d 39m 32s N)	(104d 08m 43s W, 32d 35m 52s N)       1875    0d 31m 15s
+   score: 20 / 20
+(104d 05m 36s W, 32d 01m 06s N)	(104d 34m 45s W, 32d 33m 23s N)       3686    1d 01m 26s
+   score: 20 / 20
+(104d 13m 04s W, 32d 24m 31s N)	(104d 14m 17s W, 32d 08m 38s N)       1026    0d 17m 06s
+   score: 20 / 20
+(104d 48m 34s W, 32d 10m 01s N)	(104d 23m 44s W, 32d 50m 32s N)       3921    1d 05m 21s
+   score: 20 / 20
+(104d 25m 03s W, 32d 48m 43s N)	(104d 35m 58s W, 32d 17m 50s N)       2508    0d 41m 48s
+   score: 20 / 20
+(104d 08m 11s W, 32d 02m 18s N)	(104d 05m 31s W, 32d 38m 57s N)       2359    0d 39m 19s
+   score: 20 / 20
+(104d 23m 57s W, 32d 46m 47s N)	(104d 24m 12s W, 32d 50m 32s N)        240    0d 04m 00s
+   score: 20 / 20
+(104d 19m 08s W, 32d 30m 48s N)	(104d 27m 36s W, 32d 50m 34s N)       1694    0d 28m 14s
+   score: 20 / 20
+(104d 01m 20s W, 32d 15m 08s N)	(104d 47m 57s W, 32d 07m 13s N)       3272    0d 54m 32s
+   score: 20 / 20
+(104d 33m 51s W, 32d 48m 53s N)	(104d 20m 16s W, 32d 37m 58s N)       1470    0d 24m 30s
+   score: 20 / 20
+(104d 23m 26s W, 32d 49m 48s N)	(104d 24m 59s W, 32d 45m 09s N)        372    0d 06m 12s
+   score: 20 / 20
+(104d 25m 43s W, 32d 46m 54s N)	(104d 13m 46s W, 32d 25m 56s N)       1975    0d 32m 55s
+   score: 20 / 20
+(103d 15m 43s W, 32d 14m 02s N)	(104d 15m 03s W, 32d 24m 28s N)       4186    1d 09m 46s
+   score: 20 / 20
+(104d 33m 34s W, 32d 05m 58s N)	(104d 35m 15s W, 32d 07m 23s N)        186    0d 03m 06s
+   score: 20 / 20
+(104d 21m 53s W, 32d 27m 03s N)	(104d 24m 15s W, 32d 48m 08s N)       1407    0d 23m 27s
+   score: 20 / 20
+(104d 14m 18s W, 32d 44m 22s N)	(103d 56m 52s W, 32d 36m 10s N)       1538    0d 25m 38s
+   score: 20 / 20
+(104d 24m 29s W, 32d 35m 42s N)	(103d 56m 56s W, 32d 18m 30s N)       2685    0d 44m 45s
+   score: 20 / 20
+(104d 35m 25s W, 32d 35m 42s N)	(103d 45m 01s W, 32d 16m 09s N)       4197    1d 09m 57s
+   score: 20 / 20
+(104d 24m 46s W, 32d 48m 47s N)	(104d 41m 05s W, 32d 15m 22s N)       2984    0d 49m 44s
+   score: 20 / 20
+(104d 45m 43s W, 32d 06m 00s N)	(104d 19m 15s W, 32d 11m 28s N)       1916    0d 31m 56s
+   score: 20 / 20
+(104d 14m 44s W, 32d 25m 14s N)	(104d 45m 32s W, 32d 18m 59s N)       2223    0d 37m 03s
+   score: 20 / 20
+(104d 31m 53s W, 32d 25m 59s N)	(104d 47m 20s W, 32d 11m 12s N)       1814    0d 30m 14s
+   score: 20 / 20
+(104d 22m 18s W, 32d 18m 27s N)	(104d 45m 53s W, 32d 39m 26s N)       2674    0d 44m 34s
+   score: 20 / 20
+(103d 59m 18s W, 32d 12m 51s N)	(104d 08m 20s W, 32d 30m 42s N)       1613    0d 26m 53s
+   score: 20 / 20
+(104d 38m 42s W, 32d 30m 45s N)	(104d 18m 34s W, 32d 29m 27s N)       1286    0d 21m 26s
+   score: 20 / 20
+(104d 30m 18s W, 32d 22m 44s N)	(104d 21m 03s W, 32d 01m 22s N)       1837    0d 30m 37s
+   score: 20 / 20
+(104d 27m 01s W, 32d 23m 03s N)	(104d 01m 20s W, 32d 15m 08s N)       2016    0d 33m 36s
+   score: 20 / 20
+(104d 40m 00s W, 32d 43m 50s N)	(104d 28m 52s W, 32d 25m 57s N)       1741    0d 29m 01s
+   score: 20 / 20
+(104d 48m 25s W, 32d 02m 03s N)	(103d 46m 29s W, 32d 28m 19s N)       5292    1d 28m 12s
+   score: 20 / 20
+(104d 20m 10s W, 32d 13m 36s N)	(104d 24m 30s W, 32d 50m 28s N)       2472    0d 41m 12s
+   score: 20 / 20
+(104d 24m 30s W, 32d 49m 48s N)	(104d 24m 15s W, 32d 48m 59s N)         64    0d 01m 04s
+   score: 20 / 20
+(104d 31m 34s W, 32d 15m 25s N)	(104d 30m 14s W, 32d 36m 22s N)       1337    0d 22m 17s
+   score: 20 / 20
+(104d 44m 10s W, 32d 48m 37s N)	(104d 34m 06s W, 32d 11m 29s N)       2832    0d 47m 12s
+   score: 20 / 20
+(104d 24m 10s W, 32d 50m 18s N)	(104d 23m 26s W, 32d 47m 08s N)        234    0d 03m 54s
+   score: 20 / 20
+(104d 15m 48s W, 32d 20m 15s N)	(104d 04m 38s W, 32d 44m 23s N)       2118    0d 35m 18s
+   score: 20 / 20
+(104d 17m 23s W, 32d 25m 41s N)	(104d 05m 54s W, 32d 52m 06s N)       2274    0d 37m 54s
+   score: 20 / 20
+(104d 21m 53s W, 32d 22m 25s N)	(104d 23m 20s W, 32d 46m 10s N)       1512    0d 25m 12s
+   score: 20 / 20
+(104d 15m 10s W, 32d 12m 23s N)	(104d 03m 57s W, 32d 04m 45s N)       1131    0d 18m 51s
+   score: 20 / 20
+(104d 11m 06s W, 32d 24m 03s N)	(104d 24m 44s W, 32d 47m 00s N)       2195    0d 36m 35s
+   score: 20 / 20
+(104d 29m 24s W, 32d 03m 49s N)	(104d 13m 34s W, 32d 36m 17s N)       2898    0d 48m 18s
+   score: 20 / 20
+(104d 27m 05s W, 32d 48m 44s N)	(104d 06m 14s W, 32d 10m 38s N)       3537    0d 58m 57s
+   score: 20 / 20
+(104d 46m 31s W, 32d 25m 59s N)	(104d 24m 12s W, 32d 50m 32s N)       2812    0d 46m 52s
+   score: 20 / 20
+(104d 02m 57s W, 32d 10m 32s N)	(103d 44m 15s W, 32d 16m 26s N)       1476    0d 24m 36s
+   score: 20 / 20
+(104d 35m 03s W, 32d 18m 51s N)	(104d 24m 12s W, 32d 50m 32s N)       2552    0d 42m 32s
+   score: 20 / 20
+(103d 56m 19s W, 32d 29m 23s N)	(104d 15m 40s W, 32d 28m 17s N)       1227    0d 20m 27s
+   score: 20 / 20
+(104d 18m 41s W, 32d 16m 04s N)	(103d 32m 16s W, 32d 16m 29s N)       2810    0d 46m 50s
+   score: 20 / 20
+(104d 01m 27s W, 32d 32m 51s N)	(104d 15m 43s W, 32d 21m 49s N)       1518    0d 25m 18s
+   score: 20 / 20
+(104d 01m 18s W, 32d 02m 04s N)	(103d 57m 42s W, 32d 43m 35s N)       2707    0d 45m 07s
+   score: 20 / 20
+(104d 25m 46s W, 32d 55m 46s N)	(103d 49m 18s W, 32d 02m 05s N)       5409    1d 30m 09s
+   score: 20 / 20
+(104d 10m 31s W, 32d 06m 24s N)	(104d 21m 46s W, 32d 07m 35s N)        746    0d 12m 26s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 30s N)	(104d 18m 35s W, 32d 02m 11s N)       3236    0d 53m 56s
+   score: 20 / 20
+(103d 59m 16s W, 32d 11m 41s N)	(104d 24m 34s W, 32d 47m 52s N)       3689    1d 01m 29s
+   score: 20 / 20
+(104d 40m 22s W, 32d 47m 25s N)	(104d 17m 54s W, 32d 10m 50s N)       3543    0d 59m 03s
+   score: 20 / 20
+(104d 13m 21s W, 32d 26m 56s N)	(104d 24m 10s W, 32d 50m 18s N)       2051    0d 34m 11s
+   score: 20 / 20
+(103d 56m 19s W, 32d 29m 23s N)	(104d 24m 55s W, 32d 45m 53s N)       2706    0d 45m 06s
+   score: 20 / 20
+(104d 34m 43s W, 32d 30m 20s N)	(104d 23m 48s W, 32d 29m 07s N)        728    0d 12m 08s
+   score: 20 / 20
+(104d 26m 23s W, 32d 28m 17s N)	(104d 24m 40s W, 32d 14m 54s N)        906    0d 15m 06s
+   score: 20 / 20
+(104d 24m 42s W, 32d 50m 57s N)	(104d 24m 13s W, 32d 24m 34s N)       1612    0d 26m 52s
+   score: 20 / 20
+(104d 22m 57s W, 32d 47m 44s N)	(104d 41m 14s W, 32d 03m 30s N)       3751    1d 02m 31s
+   score: 20 / 20
+(104d 24m 15s W, 32d 47m 54s N)	(104d 31m 53s W, 32d 25m 59s N)       1773    0d 29m 33s
+   score: 20 / 20
+(104d 43m 40s W, 32d 01m 40s N)	(104d 29m 11s W, 32d 49m 30s N)       3739    1d 02m 19s
+   score: 20 / 20
+(104d 31m 53s W, 32d 25m 59s N)	(104d 05m 53s W, 32d 25m 31s N)       1588    0d 26m 28s
+   score: 20 / 20
+(104d 10m 15s W, 32d 21m 04s N)	(104d 29m 24s W, 32d 05m 37s N)       2076    0d 34m 36s
+   score: 20 / 20
+(104d 47m 41s W, 32d 08m 15s N)	(104d 24m 32s W, 32d 45m 21s N)       3615    1d 00m 15s
+   score: 20 / 20
+(104d 22m 50s W, 32d 10m 34s N)	(104d 30m 07s W, 32d 16m 32s N)        795    0d 13m 15s
+   score: 20 / 20
+(104d 21m 10s W, 32d 24m 49s N)	(103d 49m 18s W, 32d 02m 05s N)       3276    0d 54m 36s
+   score: 20 / 20
+(104d 21m 01s W, 32d 35m 49s N)	(104d 39m 58s W, 32d 20m 06s N)       2080    0d 34m 40s
+   score: 20 / 20
+(104d 39m 02s W, 32d 11m 54s N)	(104d 34m 34s W, 32d 02m 31s N)        831    0d 13m 51s
+   score: 20 / 20
+(104d 36m 11s W, 32d 32m 07s N)	(104d 45m 21s W, 32d 05m 48s N)       2129    0d 35m 29s
+   score: 20 / 20
+(104d 32m 52s W, 32d 16m 04s N)	(104d 24m 15s W, 32d 48m 34s N)       2467    0d 41m 07s
+   score: 20 / 20
+(103d 56m 47s W, 32d 49m 27s N)	(104d 37m 04s W, 32d 14m 38s N)       4506    1d 15m 06s
+   score: 20 / 20
+(104d 05m 10s W, 32d 30m 27s N)	(104d 17m 37s W, 32d 15m 49s N)       1625    0d 27m 05s
+   score: 20 / 20
+(104d 23m 41s W, 32d 47m 03s N)	(104d 38m 39s W, 32d 17m 51s N)       2650    0d 44m 10s
+   score: 20 / 20
+(104d 24m 41s W, 32d 24m 08s N)	(104d 23m 26s W, 32d 49m 48s N)       1615    0d 26m 55s
+   score: 20 / 20
+(104d 19m 30s W, 32d 45m 32s N)	(104d 25m 53s W, 32d 46m 20s N)        431    0d 07m 11s
+   score: 20 / 20
+(104d 22m 42s W, 32d 49m 52s N)	(104d 42m 35s W, 32d 09m 45s N)       3600    1d 00m 00s
+   score: 20 / 20
+(104d 29m 57s W, 32d 14m 38s N)	(104d 19m 30s W, 32d 45m 32s N)       2481    0d 41m 21s
+   score: 20 / 20
+(104d 23m 09s W, 32d 34m 56s N)	(104d 49m 47s W, 32d 09m 03s N)       3151    0d 52m 31s
+   score: 20 / 20
+(104d 21m 01s W, 32d 08m 25s N)	(104d 20m 08s W, 32d 07m 54s N)         84    0d 01m 24s
+   score: 20 / 20
+(104d 27m 42s W, 32d 27m 19s N)	(104d 45m 32s W, 32d 18m 59s N)       1570    0d 26m 10s
+   score: 20 / 20
+(103d 46m 51s W, 32d 14m 21s N)	(104d 02m 10s W, 32d 32m 30s N)       2008    0d 33m 28s
+   score: 20 / 20
+(104d 17m 05s W, 32d 25m 10s N)	(104d 20m 32s W, 32d 14m 45s N)        832    0d 13m 52s
+   score: 20 / 20
+(104d 02m 06s W, 32d 03m 09s N)	(103d 53m 07s W, 32d 21m 00s N)       1610    0d 26m 50s
+   score: 20 / 20
+(104d 46m 26s W, 32d 52m 46s N)	(104d 48m 00s W, 32d 15m 38s N)       2322    0d 38m 42s
+   score: 20 / 20
+(104d 07m 58s W, 32d 09m 01s N)	(104d 25m 53s W, 32d 46m 20s N)       3314    0d 55m 14s
+   score: 20 / 20
+(104d 49m 31s W, 32d 09m 48s N)	(104d 22m 38s W, 32d 48m 07s N)       3912    1d 05m 12s
+   score: 20 / 20
+(104d 39m 51s W, 32d 32m 32s N)	(104d 23m 07s W, 32d 43m 53s N)       1685    0d 28m 05s
+   score: 20 / 20
+(104d 11m 48s W, 32d 35m 12s N)	(104d 22m 39s W, 32d 45m 22s N)       1261    0d 21m 01s
+   score: 20 / 20
+(104d 50m 03s W, 32d 49m 41s N)	(103d 46m 26s W, 32d 03m 30s N)       6588    1d 49m 48s
+   score: 20 / 20
+(103d 55m 08s W, 32d 16m 23s N)	(104d 24m 55s W, 32d 45m 53s N)       3557    0d 59m 17s
+   score: 20 / 20
+(104d 13m 05s W, 32d 23m 04s N)	(104d 16m 57s W, 32d 49m 44s N)       1832    0d 30m 32s
+   score: 20 / 20
+(104d 00m 10s W, 32d 00m 40s N)	(104d 15m 48s W, 32d 20m 15s N)       2113    0d 35m 13s
+   score: 20 / 20
+(104d 22m 42s W, 32d 49m 53s N)	(104d 18m 56s W, 32d 01m 42s N)       3117    0d 51m 57s
+   score: 20 / 20
+(104d 50m 13s W, 32d 12m 19s N)	(104d 24m 25s W, 32d 29m 20s N)       2569    0d 42m 49s
+   score: 20 / 20
+(104d 22m 18s W, 32d 28m 36s N)	(104d 47m 34s W, 32d 06m 43s N)       2829    0d 47m 09s
+   score: 20 / 20
+(104d 03m 57s W, 32d 13m 15s N)	(103d 57m 56s W, 32d 35m 58s N)       1724    0d 28m 44s
+   score: 20 / 20
+(104d 44m 45s W, 32d 09m 25s N)	(104d 16m 30s W, 32d 15m 33s N)       2063    0d 34m 23s
+   score: 20 / 20
+(104d 21m 40s W, 32d 13m 16s N)	(104d 38m 26s W, 32d 04m 08s N)       1554    0d 25m 54s
+   score: 20 / 20
+(104d 13m 28s W, 32d 15m 50s N)	(104d 47m 20s W, 32d 11m 12s N)       2310    0d 38m 30s
+   score: 20 / 20
+(104d 48m 50s W, 32d 27m 01s N)	(104d 23m 11s W, 32d 33m 11s N)       1909    0d 31m 49s
+   score: 20 / 20
+(103d 51m 04s W, 32d 11m 28s N)	(104d 22m 46s W, 32d 50m 32s N)       4246    1d 10m 46s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 38m 08s W, 32d 44m 51s N)       2609    0d 43m 29s
+   score: 20 / 20
+(104d 12m 44s W, 32d 20m 30s N)	(104d 25m 15s W, 32d 50m 32s N)       2553    0d 42m 33s
+   score: 20 / 20
+(104d 10m 43s W, 32d 18m 18s N)	(104d 07m 42s W, 32d 36m 45s N)       1288    0d 21m 28s
+   score: 20 / 20
+(104d 01m 44s W, 32d 13m 54s N)	(104d 46m 14s W, 32d 47m 54s N)       4710    1d 18m 30s
+   score: 20 / 20
+(103d 55m 55s W, 32d 52m 24s N)	(104d 16m 49s W, 32d 44m 10s N)       1748    0d 29m 08s
+   score: 20 / 20
+(104d 25m 44s W, 32d 49m 36s N)	(104d 25m 45s W, 32d 49m 36s N)          1    0d 00m 01s
+   score: 20 / 20
+(104d 43m 58s W, 32d 48m 37s N)	(104d 28m 29s W, 32d 27m 38s N)       2188    0d 36m 28s
+   score: 20 / 20
+(104d 15m 17s W, 32d 21m 20s N)	(104d 40m 28s W, 32d 05m 49s N)       2442    0d 40m 42s
+   score: 20 / 20
+(104d 24m 15s W, 32d 49m 45s N)	(104d 01m 18s W, 32d 02m 04s N)       4238    1d 10m 38s
+   score: 20 / 20
+(104d 23m 42s W, 32d 45m 37s N)	(104d 13m 44s W, 32d 25m 51s N)       1784    0d 29m 44s
+   score: 20 / 20
+(104d 06m 46s W, 32d 04m 44s N)	(103d 46m 57s W, 32d 30m 15s N)       2720    0d 45m 20s
+   score: 20 / 20
+(104d 47m 15s W, 32d 20m 13s N)	(104d 31m 31s W, 32d 28m 18s N)       1429    0d 23m 49s
+   score: 20 / 20
+(104d 34m 43s W, 32d 30m 20s N)	(104d 05m 45s W, 32d 17m 10s N)       2528    0d 42m 08s
+   score: 20 / 20
+(104d 45m 03s W, 32d 04m 40s N)	(104d 42m 40s W, 32d 43m 12s N)       2455    0d 40m 55s
+   score: 20 / 20
+(103d 44m 20s W, 32d 31m 04s N)	(104d 26m 52s W, 32d 50m 57s N)       3745    1d 02m 25s
+   score: 20 / 20
+(104d 36m 17s W, 32d 18m 46s N)	(103d 58m 40s W, 32d 49m 08s N)       4079    1d 07m 59s
+   score: 20 / 20
+(104d 20m 06s W, 32d 19m 17s N)	(104d 23m 53s W, 32d 50m 23s N)       2093    0d 34m 53s
+   score: 20 / 20
+(104d 23m 52s W, 32d 50m 36s N)	(104d 22m 18s W, 32d 28m 36s N)       1414    0d 23m 34s
+   score: 20 / 20
+(104d 50m 01s W, 32d 05m 06s N)	(104d 21m 54s W, 32d 46m 59s N)       4200    1d 10m 00s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 02m 48s W, 32d 53m 42s N)       2364    0d 39m 24s
+   score: 20 / 20
+(104d 34m 47s W, 32d 33m 32s N)	(104d 46m 14s W, 32d 47m 54s N)       1549    0d 25m 49s
+   score: 20 / 20
+(104d 49m 18s W, 32d 24m 49s N)	(104d 19m 30s W, 32d 44m 47s N)       2986    0d 49m 46s
+   score: 20 / 20
+(104d 27m 00s W, 32d 35m 22s N)	(104d 22m 44s W, 32d 27m 55s N)        703    0d 11m 43s
+   score: 20 / 20
+(104d 23m 28s W, 32d 47m 16s N)	(104d 23m 26s W, 32d 47m 08s N)         10    0d 00m 10s
+   score: 20 / 20
+(104d 13m 04s W, 32d 24m 42s N)	(104d 13m 19s W, 32d 24m 40s N)         17    0d 00m 17s
+   score: 20 / 20
+(104d 10m 30s W, 32d 01m 26s N)	(104d 40m 38s W, 32d 56m 53s N)       5135    1d 25m 35s
+   score: 20 / 20
+(104d 14m 08s W, 32d 25m 20s N)	(104d 06m 45s W, 32d 13m 56s N)       1127    0d 18m 47s
+   score: 20 / 20
+(103d 58m 34s W, 32d 35m 56s N)	(104d 29m 05s W, 32d 49m 17s N)       2632    0d 43m 52s
+   score: 20 / 20
+(104d 23m 26s W, 32d 33m 33s N)	(104d 36m 36s W, 32d 10m 48s N)       2155    0d 35m 55s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 43m 47s W, 32d 20m 20s N)       2987    0d 49m 47s
+   score: 20 / 20
+(104d 03m 25s W, 32d 11m 44s N)	(104d 33m 25s W, 32d 16m 18s N)       2074    0d 34m 34s
+   score: 20 / 20
+(104d 21m 01s W, 32d 08m 25s N)	(104d 23m 28s W, 32d 50m 45s N)       2687    0d 44m 47s
+   score: 20 / 20
+(104d 19m 59s W, 32d 24m 06s N)	(104d 11m 09s W, 32d 33m 44s N)       1108    0d 18m 28s
+   score: 20 / 20
+(104d 43m 52s W, 32d 46m 08s N)	(104d 05m 45s W, 32d 17m 10s N)       4025    1d 07m 05s
+   score: 20 / 20
+(104d 22m 32s W, 32d 10m 28s N)	(104d 12m 39s W, 32d 30m 11s N)       1776    0d 29m 36s
+   score: 20 / 20
+(104d 35m 53s W, 32d 16m 12s N)	(104d 15m 11s W, 32d 12m 06s N)       1488    0d 24m 48s
+   score: 20 / 20
+(104d 24m 30s W, 32d 49m 04s N)	(104d 23m 40s W, 32d 49m 43s N)         89    0d 01m 29s
+   score: 20 / 20
+(104d 26m 05s W, 32d 50m 47s N)	(104d 27m 21s W, 32d 47m 28s N)        275    0d 04m 35s
+   score: 20 / 20
+(104d 24m 30s W, 32d 50m 28s N)	(104d 37m 04s W, 32d 14m 38s N)       2904    0d 48m 24s
+   score: 20 / 20
+(104d 23m 53s W, 32d 50m 23s N)	(104d 23m 59s W, 32d 49m 12s N)         77    0d 01m 17s
+   score: 20 / 20
+(104d 25m 52s W, 32d 22m 59s N)	(103d 57m 03s W, 32d 48m 15s N)       3245    0d 54m 05s
+   score: 20 / 20
+(104d 27m 21s W, 32d 47m 28s N)	(104d 42m 38s W, 32d 12m 39s N)       3006    0d 50m 06s
+   score: 20 / 20
+(104d 37m 04s W, 32d 26m 24s N)	(104d 08m 58s W, 32d 34m 47s N)       2189    0d 36m 29s
+   score: 20 / 20
+(104d 45m 19s W, 32d 43m 15s N)	(104d 49m 29s W, 32d 15m 04s N)       1941    0d 32m 21s
+   score: 20 / 20
+(104d 14m 12s W, 32d 29m 51s N)	(104d 05m 20s W, 32d 11m 51s N)       1612    0d 26m 52s
+   score: 20 / 20
+(104d 44m 45s W, 32d 09m 25s N)	(103d 59m 42s W, 32d 33m 46s N)       4164    1d 09m 24s
+   score: 20 / 20
+(104d 29m 24s W, 32d 05m 37s N)	(103d 45m 09s W, 32d 12m 33s N)       3071    0d 51m 11s
+   score: 20 / 20
+(104d 25m 36s W, 32d 35m 56s N)	(104d 47m 03s W, 32d 21m 32s N)       2151    0d 35m 51s
+   score: 20 / 20
+(104d 24m 15s W, 32d 47m 54s N)	(104d 08m 20s W, 32d 30m 42s N)       1987    0d 33m 07s
+   score: 20 / 20
+(104d 17m 05s W, 32d 25m 10s N)	(104d 13m 44s W, 32d 25m 14s N)        205    0d 03m 25s
+   score: 20 / 20
+(104d 38m 11s W, 32d 15m 00s N)	(104d 38m 16s W, 32d 42m 19s N)       1644    0d 27m 24s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 32m 31s W, 32d 04m 54s N)       3237    0d 53m 57s
+   score: 20 / 20
+(104d 50m 01s W, 32d 05m 06s N)	(104d 20m 16s W, 32d 37m 58s N)       3757    1d 02m 37s
+   score: 20 / 20
+(104d 34m 50s W, 32d 46m 37s N)	(104d 37m 56s W, 32d 11m 33s N)       2290    0d 38m 10s
+   score: 20 / 20
+(104d 49m 18s W, 32d 15m 56s N)	(104d 30m 48s W, 32d 12m 48s N)       1298    0d 21m 38s
+   score: 20 / 20
+(104d 49m 49s W, 32d 09m 41s N)	(103d 50m 26s W, 32d 22m 53s N)       4355    1d 12m 35s
+   score: 20 / 20
+(104d 04m 21s W, 32d 13m 26s N)	(104d 21m 13s W, 32d 24m 41s N)       1687    0d 28m 07s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(103d 57m 56s W, 32d 35m 58s N)       2450    0d 40m 50s
+   score: 20 / 20
+(104d 14m 08s W, 32d 25m 20s N)	(104d 24m 15s W, 32d 48m 34s N)       2001    0d 33m 21s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 04m 23s W, 32d 13m 33s N)       1262    0d 21m 02s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 30m 27s W, 32d 47m 56s N)        531    0d 08m 51s
+   score: 20 / 20
+(104d 29m 35s W, 32d 26m 39s N)	(104d 15m 48s W, 32d 20m 15s N)       1211    0d 20m 11s
+   score: 20 / 20
+(103d 48m 51s W, 32d 19m 26s N)	(104d 10m 38s W, 32d 51m 41s N)       3242    0d 54m 02s
+   score: 20 / 20
+(104d 30m 27s W, 32d 25m 33s N)	(104d 21m 19s W, 32d 28m 49s N)        744    0d 12m 24s
+   score: 20 / 20
+(103d 45m 49s W, 32d 08m 30s N)	(104d 49m 32s W, 32d 06m 52s N)       3921    1d 05m 21s
+   score: 20 / 20
+(104d 45m 42s W, 32d 04m 27s N)	(104d 26m 51s W, 32d 48m 48s N)       3792    1d 03m 12s
+   score: 20 / 20
+(104d 25m 00s W, 32d 53m 26s N)	(103d 59m 42s W, 32d 33m 46s N)       2698    0d 44m 58s
+   score: 20 / 20
+(104d 04m 16s W, 32d 29m 47s N)	(104d 30m 14s W, 32d 36m 22s N)       1953    0d 32m 33s
+   score: 20 / 20
+(104d 08m 12s W, 32d 28m 33s N)	(104d 24m 28s W, 32d 50m 20s N)       2283    0d 38m 03s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 24m 10s W, 32d 50m 18s N)       2130    0d 35m 30s
+   score: 20 / 20
+(104d 23m 26s W, 32d 49m 48s N)	(104d 22m 38s W, 32d 14m 39s N)       2157    0d 35m 57s
+   score: 20 / 20
+(104d 30m 57s W, 32d 36m 50s N)	(104d 24m 46s W, 32d 48m 07s N)       1048    0d 17m 28s
+   score: 20 / 20
+(104d 06m 42s W, 32d 10m 12s N)	(104d 13m 34s W, 32d 36m 17s N)       1977    0d 32m 57s
+   score: 20 / 20
+(104d 12m 39s W, 32d 30m 11s N)	(104d 24m 47s W, 32d 49m 58s N)       1915    0d 31m 55s
+   score: 20 / 20
+(104d 34m 32s W, 32d 17m 09s N)	(104d 25m 48s W, 32d 20m 05s N)        700    0d 11m 40s
+   score: 20 / 20
+(104d 25m 14s W, 32d 50m 15s N)	(104d 08m 57s W, 32d 31m 27s N)       2105    0d 35m 05s
+   score: 20 / 20
+(104d 36m 11s W, 32d 32m 07s N)	(104d 14m 10s W, 32d 25m 20s N)       1728    0d 28m 48s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 08m 12s W, 32d 28m 33s N)        551    0d 09m 11s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 33m 55s W, 32d 36m 42s N)       1867    0d 31m 07s
+   score: 20 / 20
+(104d 49m 45s W, 32d 27m 17s N)	(104d 09m 05s W, 32d 34m 31s N)       2874    0d 47m 54s
+   score: 20 / 20
+(104d 48m 23s W, 32d 04m 50s N)	(104d 16m 31s W, 32d 19m 44s N)       2806    0d 46m 46s
+   score: 20 / 20
+(104d 03m 05s W, 32d 32m 22s N)	(103d 50m 30s W, 32d 08m 56s N)       2161    0d 36m 01s
+   score: 20 / 20
+(104d 13m 37s W, 32d 27m 35s N)	(104d 24m 46s W, 32d 48m 47s N)       1941    0d 32m 21s
+   score: 20 / 20
+(104d 20m 42s W, 32d 14m 49s N)	(104d 24m 28s W, 32d 50m 20s N)       2357    0d 39m 17s
+   score: 20 / 20
+(104d 37m 27s W, 32d 10m 21s N)	(104d 22m 46s W, 32d 50m 32s N)       3292    0d 54m 52s
+   score: 20 / 20
+(104d 27m 38s W, 32d 21m 01s N)	(104d 13m 44s W, 32d 25m 14s N)       1087    0d 18m 07s
+   score: 20 / 20
+(104d 03m 25s W, 32d 52m 16s N)	(104d 35m 25s W, 32d 35m 42s N)       2914    0d 48m 34s
+   score: 20 / 20
+(104d 42m 20s W, 32d 41m 58s N)	(104d 22m 42s W, 32d 49m 53s N)       1653    0d 27m 33s
+   score: 20 / 20
+(103d 58m 15s W, 32d 42m 52s N)	(104d 25m 49s W, 32d 49m 34s N)       2056    0d 34m 16s
+   score: 20 / 20
+(104d 41m 13s W, 32d 27m 33s N)	(104d 23m 31s W, 32d 33m 50s N)       1439    0d 23m 59s
+   score: 20 / 20
+(104d 25m 48s W, 32d 47m 05s N)	(104d 23m 43s W, 32d 47m 06s N)        126    0d 02m 06s
+   score: 20 / 20
+(104d 48m 50s W, 32d 49m 25s N)	(103d 52m 33s W, 32d 24m 24s N)       4878    1d 21m 18s
+   score: 20 / 20
+(104d 28m 10s W, 32d 27m 00s N)	(104d 14m 10s W, 32d 25m 20s N)        940    0d 15m 40s
+   score: 20 / 20
+(104d 49m 23s W, 32d 02m 06s N)	(104d 47m 57s W, 32d 07m 13s N)        393    0d 06m 33s
+   score: 20 / 20
+(104d 22m 41s W, 32d 23m 58s N)	(104d 50m 23s W, 32d 18m 46s N)       1974    0d 32m 54s
+   score: 20 / 20
+(104d 21m 53s W, 32d 27m 03s N)	(104d 39m 21s W, 32d 40m 57s N)       1882    0d 31m 22s
+   score: 20 / 20
+(104d 10m 30s W, 32d 01m 26s N)	(104d 13m 44s W, 32d 25m 14s N)       1622    0d 27m 02s
+   score: 20 / 20
+(104d 43m 58s W, 32d 48m 37s N)	(104d 21m 41s W, 32d 28m 20s N)       2554    0d 42m 34s
+   score: 20 / 20
+(104d 20m 55s W, 32d 31m 21s N)	(104d 12m 04s W, 32d 24m 03s N)        969    0d 16m 09s
+   score: 20 / 20
+(104d 00m 20s W, 32d 03m 49s N)	(104d 46m 34s W, 32d 06m 52s N)       2957    0d 49m 17s
+   score: 20 / 20
+(104d 33m 16s W, 32d 22m 32s N)	(104d 29m 39s W, 32d 08m 52s N)       1037    0d 17m 17s
+   score: 20 / 20
+(104d 08m 43s W, 32d 35m 52s N)	(104d 27m 21s W, 32d 47m 28s N)       1814    0d 30m 14s
+   score: 20 / 20
+(103d 52m 45s W, 32d 37m 26s N)	(104d 14m 10s W, 32d 25m 20s N)       2011    0d 33m 31s
+   score: 20 / 20
+(104d 36m 25s W, 32d 02m 06s N)	(103d 56m 52s W, 32d 36m 10s N)       4417    1d 13m 37s
+   score: 20 / 20
+(104d 19m 30s W, 32d 44m 47s N)	(104d 24m 28s W, 32d 50m 20s N)        631    0d 10m 31s
+   score: 20 / 20
+(104d 06m 46s W, 32d 04m 44s N)	(104d 02m 34s W, 32d 04m 42s N)        254    0d 04m 14s
+   score: 20 / 20
+(104d 23m 58s W, 32d 50m 38s N)	(104d 09m 37s W, 32d 11m 38s N)       3201    0d 53m 21s
+   score: 20 / 20
+(104d 14m 53s W, 32d 28m 16s N)	(104d 47m 14s W, 32d 03m 19s N)       3438    0d 57m 18s
+   score: 20 / 20
+(104d 24m 19s W, 32d 50m 43s N)	(104d 39m 10s W, 32d 54m 04s N)       1092    0d 18m 12s
+   score: 20 / 20
+(104d 14m 11s W, 32d 25m 48s N)	(104d 11m 48s W, 32d 35m 12s N)        707    0d 11m 47s
+   score: 20 / 20
+(104d 14m 11s W, 32d 25m 48s N)	(104d 12m 04s W, 32d 24m 03s N)        232    0d 03m 52s
+   score: 20 / 20
+(104d 23m 23s W, 32d 33m 54s N)	(104d 38m 39s W, 32d 17m 51s N)       1879    0d 31m 19s
+   score: 20 / 20
+(104d 13m 26s W, 32d 24m 48s N)	(104d 24m 10s W, 32d 50m 18s N)       2174    0d 36m 14s
+   score: 20 / 20
+(104d 36m 33s W, 32d 18m 25s N)	(104d 06m 08s W, 32d 02m 30s N)       2780    0d 46m 20s
+   score: 20 / 20
+(104d 05m 45s W, 32d 17m 10s N)	(104d 24m 04s W, 32d 47m 06s N)       2895    0d 48m 15s
+   score: 20 / 20
+(104d 15m 17s W, 32d 25m 34s N)	(104d 47m 01s W, 32d 21m 07s N)       2171    0d 36m 11s
+   score: 20 / 20
+(104d 10m 44s W, 32d 30m 49s N)	(104d 13m 16s W, 32d 26m 34s N)        407    0d 06m 47s
+   score: 20 / 20
+(104d 03m 27s W, 32d 19m 39s N)	(104d 33m 43s W, 32d 28m 38s N)       2355    0d 39m 15s
+   score: 20 / 20
+(104d 22m 37s W, 32d 45m 02s N)	(104d 20m 42s W, 32d 14m 49s N)       1928    0d 32m 08s
+   score: 20 / 20
+(104d 10m 41s W, 32d 30m 27s N)	(104d 45m 23s W, 32d 26m 19s N)       2330    0d 38m 50s
+   score: 20 / 20
+(104d 23m 30s W, 32d 21m 43s N)	(104d 26m 51s W, 32d 50m 32s N)       1930    0d 32m 10s
+   score: 20 / 20
+(104d 15m 17s W, 32d 12m 19s N)	(104d 23m 16s W, 32d 55m 47s N)       3087    0d 51m 27s
+   score: 20 / 20
+(104d 29m 09s W, 32d 27m 41s N)	(104d 36m 28s W, 32d 18m 42s N)        978    0d 16m 18s
+   score: 20 / 20
+(104d 19m 08s W, 32d 30m 48s N)	(104d 43m 36s W, 32d 41m 20s N)       2100    0d 35m 00s
+   score: 20 / 20
+(104d 37m 54s W, 32d 20m 45s N)	(104d 25m 58s W, 32d 28m 33s N)       1184    0d 19m 44s
+   score: 20 / 20
+(103d 58m 32s W, 32d 36m 02s N)	(104d 19m 30s W, 32d 45m 32s N)       1828    0d 30m 28s
+   score: 20 / 20
+(104d 44m 24s W, 32d 04m 53s N)	(104d 30m 50s W, 32d 09m 34s N)       1095    0d 18m 15s
+   score: 20 / 20
+(104d 23m 59s W, 32d 49m 00s N)	(104d 14m 10s W, 32d 25m 20s N)       2009    0d 33m 29s
+   score: 20 / 20
+(103d 51m 25s W, 32d 12m 07s N)	(104d 47m 05s W, 32d 08m 46s N)       3541    0d 59m 01s
+   score: 20 / 20
+(104d 24m 34s W, 32d 47m 52s N)	(104d 50m 40s W, 32d 01m 09s N)       4369    1d 12m 49s
+   score: 20 / 20
+(104d 36m 40s W, 32d 18m 17s N)	(104d 24m 46s W, 32d 48m 48s N)       2545    0d 42m 25s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 15m 11s W, 32d 12m 06s N)       2847    0d 47m 27s
+   score: 20 / 20
+(104d 20m 58s W, 32d 08m 39s N)	(104d 46m 25s W, 32d 01m 59s N)       1927    0d 32m 07s
+   score: 20 / 20
+(103d 49m 26s W, 32d 13m 10s N)	(104d 31m 27s W, 32d 04m 48s N)       3023    0d 50m 23s
+   score: 20 / 20
+(104d 50m 01s W, 32d 05m 06s N)	(104d 42m 25s W, 32d 42m 26s N)       2696    0d 44m 56s
+   score: 20 / 20
+(104d 39m 54s W, 32d 08m 24s N)	(104d 46m 36s W, 32d 09m 51s N)        489    0d 08m 09s
+   score: 20 / 20
+(104d 11m 23s W, 32d 54m 47s N)	(104d 11m 00s W, 32d 31m 46s N)       1404    0d 23m 24s
+   score: 20 / 20
+(104d 14m 10s W, 32d 26m 20s N)	(104d 50m 32s W, 32d 02m 07s N)       3635    1d 00m 35s
+   score: 20 / 20
+(103d 55m 07s W, 32d 22m 50s N)	(104d 43m 31s W, 32d 11m 17s N)       3597    0d 59m 57s
+   score: 20 / 20
+(104d 46m 52s W, 31d 59m 00s N)	(104d 29m 57s W, 32d 14m 38s N)       1953    0d 32m 33s
+   score: 20 / 20
+(104d 49m 49s W, 32d 09m 41s N)	(104d 23m 33s W, 32d 20m 41s N)       2236    0d 37m 16s
+   score: 20 / 20
+(104d 41m 07s W, 32d 11m 54s N)	(104d 47m 45s W, 32d 52m 40s N)       2844    0d 47m 24s
+   score: 20 / 20
+(103d 46m 57s W, 32d 30m 15s N)	(104d 21m 03s W, 32d 01m 22s N)       3779    1d 02m 59s
+   score: 20 / 20
+(104d 20m 10s W, 32d 13m 36s N)	(104d 11m 06s W, 32d 24m 03s N)       1171    0d 19m 31s
+   score: 20 / 20
+(104d 30m 50s W, 32d 09m 34s N)	(104d 24m 32s W, 32d 45m 21s N)       2525    0d 42m 05s
+   score: 20 / 20
+(104d 22m 57s W, 32d 47m 03s N)	(103d 41m 56s W, 32d 04m 24s N)       5020    1d 23m 40s
+   score: 20 / 20
+(104d 27m 27s W, 32d 18m 14s N)	(104d 06m 14s W, 32d 10m 38s N)       1729    0d 28m 49s
+   score: 20 / 20
+(103d 46m 27s W, 32d 03m 30s N)	(104d 20m 34s W, 32d 23m 55s N)       3272    0d 54m 32s
+   score: 20 / 20
+(104d 24m 44s W, 32d 47m 00s N)	(104d 17m 01s W, 32d 12m 12s N)       2551    0d 42m 31s
+   score: 20 / 20
+(104d 47m 21s W, 32d 04m 19s N)	(104d 46m 42s W, 32d 03m 57s N)         61    0d 01m 01s
+   score: 20 / 20
+(104d 45m 43s W, 32d 32m 28s N)	(104d 14m 10s W, 32d 25m 20s N)       2321    0d 38m 41s
+   score: 20 / 20
+(104d 21m 50s W, 32d 16m 43s N)	(104d 34m 12s W, 32d 21m 26s N)       1025    0d 17m 05s
+   score: 20 / 20
+(104d 13m 05s W, 32d 23m 04s N)	(104d 24m 30s W, 32d 50m 28s N)       2329    0d 38m 49s
+   score: 20 / 20
+(104d 19m 30s W, 32d 45m 32s N)	(104d 10m 33s W, 32d 51m 24s N)        889    0d 14m 49s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 34m 06s W, 32d 11m 29s N)       2027    0d 33m 47s
+   score: 20 / 20
+(104d 25m 10s W, 32d 49m 00s N)	(104d 44m 08s W, 32d 48m 57s N)       1141    0d 19m 01s
+   score: 20 / 20
+(104d 48m 52s W, 32d 21m 02s N)	(104d 39m 20s W, 32d 25m 50s N)        860    0d 14m 20s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 22m 39s W, 32d 46m 54s N)        311    0d 05m 11s
+   score: 20 / 20
+(104d 27m 23s W, 32d 14m 13s N)	(104d 47m 02s W, 32d 56m 35s N)       3721    1d 02m 01s
+   score: 20 / 20
+(104d 14m 12s W, 32d 29m 51s N)	(103d 54m 39s W, 32d 19m 46s N)       1778    0d 29m 38s
+   score: 20 / 20
+(104d 33m 44s W, 32d 20m 08s N)	(104d 09m 32s W, 32d 09m 56s N)       2064    0d 34m 24s
+   score: 20 / 20
+(104d 46m 02s W, 32d 13m 51s N)	(104d 29m 55s W, 32d 27m 09s N)       1765    0d 29m 25s
+   score: 20 / 20
+(104d 27m 45s W, 32d 17m 55s N)	(104d 43m 40s W, 32d 01m 40s N)       1930    0d 32m 10s
+   score: 20 / 20
+(104d 48m 09s W, 32d 10m 13s N)	(104d 16m 22s W, 32d 06m 25s N)       2135    0d 35m 35s
+   score: 20 / 20
+(103d 56m 38s W, 32d 24m 39s N)	(104d 24m 41s W, 32d 24m 08s N)       1714    0d 28m 34s
+   score: 20 / 20
+(104d 05m 48s W, 32d 17m 11s N)	(104d 24m 26s W, 32d 29m 20s N)       1847    0d 30m 47s
+   score: 20 / 20
+(103d 49m 15s W, 32d 39m 47s N)	(104d 27m 28s W, 32d 20m 41s N)       3439    0d 57m 19s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 15m 03s W, 32d 24m 28s N)        105    0d 01m 45s
+   score: 20 / 20
+(104d 29m 32s W, 32d 50m 17s N)	(104d 26m 59s W, 32d 49m 34s N)        196    0d 03m 16s
+   score: 20 / 20
+(104d 04m 38s W, 32d 44m 23s N)	(104d 24m 12s W, 32d 50m 32s N)       1543    0d 25m 43s
+   score: 20 / 20
+(104d 06m 06s W, 32d 12m 40s N)	(104d 09m 33s W, 32d 32m 53s N)       1420    0d 23m 40s
+   score: 20 / 20
+(104d 46m 36s W, 32d 09m 51s N)	(104d 38m 49s W, 32d 05m 56s N)        702    0d 11m 42s
+   score: 20 / 20
+(103d 49m 18s W, 32d 01m 27s N)	(104d 48m 41s W, 32d 57m 32s N)       6928    1d 55m 28s
+   score: 20 / 20
+(104d 06m 46s W, 32d 04m 44s N)	(104d 32m 56s W, 32d 23m 41s N)       2707    0d 45m 07s
+   score: 20 / 20
+(104d 13m 53s W, 32d 12m 51s N)	(104d 23m 11s W, 32d 33m 11s N)       1778    0d 29m 38s
+   score: 20 / 20
+(103d 55m 12s W, 32d 00m 00s N)	(104d 23m 08s W, 32d 45m 14s N)       4390    1d 13m 10s
+   score: 20 / 20
+(104d 01m 27s W, 32d 39m 35s N)	(104d 41m 05s W, 32d 15m 22s N)       3831    1d 03m 51s
+   score: 20 / 20
+(104d 34m 08s W, 32d 32m 23s N)	(104d 44m 44s W, 32d 01m 34s N)       2485    0d 41m 25s
+   score: 20 / 20
+(104d 15m 10s W, 32d 12m 35s N)	(104d 10m 07s W, 32d 21m 04s N)        812    0d 13m 32s
+   score: 20 / 20
+(104d 49m 43s W, 32d 20m 02s N)	(104d 05m 31s W, 32d 38m 57s N)       3787    1d 03m 07s
+   score: 20 / 20
+(104d 46m 41s W, 32d 49m 32s N)	(104d 34m 08s W, 32d 32m 23s N)       1782    0d 29m 42s
+   score: 20 / 20
+(104d 14m 48s W, 32d 26m 40s N)	(104d 27m 25s W, 32d 27m 38s N)        815    0d 13m 35s
+   score: 20 / 20
+(104d 38m 37s W, 32d 09m 06s N)	(104d 25m 01s W, 32d 51m 10s N)       3340    0d 55m 40s
+   score: 20 / 20
+(104d 42m 58s W, 32d 08m 51s N)	(104d 24m 09s W, 32d 14m 33s N)       1471    0d 24m 31s
+   score: 20 / 20
+(104d 16m 19s W, 32d 11m 09s N)	(103d 51m 44s W, 32d 48m 30s N)       3716    1d 01m 56s
+   score: 20 / 20
+(104d 30m 52s W, 32d 09m 53s N)	(104d 15m 32s W, 32d 22m 20s N)       1667    0d 27m 47s
+   score: 20 / 20
+(104d 25m 58s W, 32d 28m 33s N)	(104d 49m 18s W, 32d 15m 56s N)       2157    0d 35m 57s
+   score: 20 / 20
+(104d 40m 38s W, 32d 10m 49s N)	(104d 48m 34s W, 32d 08m 30s N)        615    0d 10m 15s
+   score: 20 / 20
+(103d 58m 52s W, 32d 07m 21s N)	(104d 20m 54s W, 32d 51m 45s N)       3986    1d 06m 26s
+   score: 20 / 20
+(103d 56m 14s W, 32d 24m 45s N)	(104d 41m 05s W, 32d 15m 22s N)       3254    0d 54m 14s
+   score: 20 / 20
+(103d 50m 30s W, 32d 08m 56s N)	(104d 48m 50s W, 32d 49m 25s N)       5929    1d 38m 49s
+   score: 20 / 20
+(104d 23m 42s W, 32d 45m 54s N)	(104d 20m 58s W, 32d 08m 39s N)       2399    0d 39m 59s
+   score: 20 / 20
+(104d 25m 45s W, 32d 49m 40s N)	(104d 40m 27s W, 32d 40m 52s N)       1410    0d 23m 30s
+   score: 20 / 20
+(104d 23m 31s W, 32d 18m 55s N)	(104d 48m 53s W, 32d 13m 40s N)       1837    0d 30m 37s
+   score: 20 / 20
+(104d 44m 10s W, 32d 48m 37s N)	(104d 50m 15s W, 32d 11m 29s N)       2593    0d 43m 13s
+   score: 20 / 20
+(104d 47m 14s W, 32d 03m 19s N)	(104d 48m 44s W, 32d 49m 57s N)       2888    0d 48m 08s
+   score: 20 / 20
+(104d 23m 57s W, 32d 50m 22s N)	(104d 38m 16s W, 32d 42m 19s N)       1342    0d 22m 22s
+   score: 20 / 20
+(104d 25m 15s W, 32d 28m 49s N)	(104d 24m 12s W, 32d 50m 32s N)       1366    0d 22m 46s
+   score: 20 / 20
+(104d 25m 49s W, 32d 49m 34s N)	(104d 20m 20s W, 32d 07m 15s N)       2868    0d 47m 48s
+   score: 20 / 20
+(104d 25m 53s W, 32d 46m 20s N)	(104d 27m 26s W, 32d 45m 43s N)        130    0d 02m 10s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(103d 57m 35s W, 32d 46m 58s N)       2273    0d 37m 53s
+   score: 20 / 20
+(104d 24m 13s W, 32d 45m 40s N)	(104d 40m 41s W, 32d 17m 22s N)       2686    0d 44m 46s
+   score: 20 / 20
+(103d 58m 32s W, 32d 36m 02s N)	(104d 08m 12s W, 32d 28m 33s N)       1029    0d 17m 09s
+   score: 20 / 20
+(104d 24m 54s W, 32d 50m 34s N)	(104d 42m 43s W, 32d 10m 45s N)       3458    0d 57m 38s
+   score: 20 / 20
+(104d 16m 31s W, 32d 19m 44s N)	(104d 27m 06s W, 32d 17m 05s N)        794    0d 13m 14s
+   score: 20 / 20
+(103d 55m 12s W, 32d 00m 00s N)	(104d 04m 16s W, 32d 29m 47s N)       2331    0d 38m 51s
+   score: 20 / 20
+(104d 31m 34s W, 32d 15m 25s N)	(104d 33m 48s W, 32d 14m 06s N)        213    0d 03m 33s
+   score: 20 / 20
+(104d 45m 11s W, 32d 13m 50s N)	(104d 24m 10s W, 32d 50m 18s N)       3449    0d 57m 29s
+   score: 20 / 20
+(103d 43m 35s W, 32d 04m 19s N)	(104d 25m 36s W, 32d 35m 56s N)       4418    1d 13m 38s
+   score: 20 / 20
+(104d 03m 31s W, 32d 08m 14s N)	(104d 46m 25s W, 32d 12m 09s N)       2809    0d 46m 49s
+   score: 20 / 20
+(104d 08m 01s W, 32d 00m 40s N)	(104d 27m 45s W, 32d 17m 55s N)       2219    0d 36m 59s
+   score: 20 / 20
+(103d 54m 51s W, 32d 19m 50s N)	(104d 23m 11s W, 32d 45m 34s N)       3244    0d 54m 04s
+   score: 20 / 20
+(104d 44m 26s W, 32d 10m 49s N)	(104d 33m 03s W, 32d 46m 11s N)       2805    0d 46m 45s
+   score: 20 / 20
+(104d 46m 52s W, 31d 59m 00s N)	(103d 50m 18s W, 32d 05m 03s N)       3757    1d 02m 37s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(103d 57m 50s W, 32d 22m 13s N)       3281    0d 54m 41s
+   score: 20 / 20
+(104d 47m 00s W, 32d 21m 07s N)	(103d 51m 25s W, 32d 12m 07s N)       3875    1d 04m 35s
+   score: 20 / 20
+(104d 43m 51s W, 32d 27m 42s N)	(104d 49m 06s W, 32d 13m 35s N)       1162    0d 19m 22s
+   score: 20 / 20
+(104d 17m 57s W, 32d 32m 24s N)	(104d 17m 57s W, 32d 32m 24s N)          0    0d 00m 00s
+   score: 20 / 20
+(104d 39m 15s W, 32d 08m 36s N)	(104d 11m 09s W, 32d 33m 44s N)       3194    0d 53m 14s
+   score: 20 / 20
+(104d 25m 42s W, 32d 45m 34s N)	(104d 37m 04s W, 32d 26m 24s N)       1832    0d 30m 32s
+   score: 20 / 20
+(104d 14m 08s W, 32d 26m 10s N)	(104d 37m 53s W, 32d 20m 44s N)       1751    0d 29m 11s
+   score: 20 / 20
+(104d 50m 01s W, 32d 39m 05s N)	(104d 50m 23s W, 32d 03m 52s N)       2135    0d 35m 35s
+   score: 20 / 20
+(104d 31m 58s W, 32d 56m 58s N)	(104d 18m 41s W, 32d 16m 04s N)       3251    0d 54m 11s
+   score: 20 / 20
+(104d 47m 29s W, 32d 49m 43s N)	(104d 46m 24s W, 32d 50m 22s N)        104    0d 01m 44s
+   score: 20 / 20
+(104d 24m 46s W, 32d 48m 07s N)	(104d 41m 29s W, 32d 23m 49s N)       2461    0d 41m 01s
+   score: 20 / 20
+(104d 45m 03s W, 32d 04m 40s N)	(103d 50m 45s W, 32d 01m 24s N)       3454    0d 57m 34s
+   score: 20 / 20
+(104d 46m 18s W, 32d 09m 05s N)	(104d 01m 44s W, 32d 13m 54s N)       2963    0d 49m 23s
+   score: 20 / 20
+(104d 49m 52s W, 32d 26m 10s N)	(104d 08m 01s W, 32d 31m 59s N)       2860    0d 47m 40s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 24m 44s W, 32d 48m 36s N)       2062    0d 34m 22s
+   score: 20 / 20
+(104d 26m 54s W, 32d 07m 12s N)	(104d 33m 26s W, 32d 25m 06s N)       1466    0d 24m 26s
+   score: 20 / 20
+(104d 07m 38s W, 32d 06m 05s N)	(104d 37m 27s W, 32d 10m 21s N)       2045    0d 34m 05s
+   score: 20 / 20
+(104d 01m 20s W, 32d 15m 08s N)	(104d 24m 12s W, 32d 46m 52s N)       3276    0d 54m 36s
+   score: 20 / 20
+(104d 43m 58s W, 32d 48m 37s N)	(104d 45m 03s W, 32d 04m 40s N)       2702    0d 45m 02s
+   score: 20 / 20
+(104d 28m 29s W, 32d 27m 38s N)	(104d 46m 19s W, 32d 39m 25s N)       1777    0d 29m 37s
+   score: 20 / 20
+(103d 53m 55s W, 32d 27m 52s N)	(104d 12m 29s W, 32d 47m 39s N)       2301    0d 38m 21s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 23m 40s W, 32d 17m 02s N)       2042    0d 34m 02s
+   score: 20 / 20
+(104d 30m 52s W, 32d 09m 53s N)	(104d 23m 44s W, 32d 51m 12s N)       2907    0d 48m 27s
+   score: 20 / 20
+(104d 21m 09s W, 32d 24m 50s N)	(104d 43m 58s W, 32d 48m 37s N)       2796    0d 46m 36s
+   score: 20 / 20
+(104d 49m 18s W, 32d 15m 56s N)	(104d 29m 35s W, 32d 26m 39s N)       1826    0d 30m 26s
+   score: 20 / 20
+(104d 33m 44s W, 32d 20m 08s N)	(104d 06m 10s W, 32d 21m 46s N)       1752    0d 29m 12s
+   score: 20 / 20
+(104d 20m 16s W, 32d 37m 58s N)	(104d 13m 44s W, 32d 25m 14s N)       1156    0d 19m 16s
+   score: 20 / 20
+(104d 11m 47s W, 32d 23m 48s N)	(104d 23m 51s W, 32d 26m 09s N)        865    0d 14m 25s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 38m 16s W, 32d 42m 19s N)       2465    0d 41m 05s
+   score: 20 / 20
+(104d 34m 08s W, 32d 32m 23s N)	(104d 02m 10s W, 32d 32m 30s N)       1925    0d 32m 05s
+   score: 20 / 20
+(104d 30m 18s W, 32d 22m 44s N)	(104d 25m 22s W, 32d 50m 32s N)       1964    0d 32m 44s
+   score: 20 / 20
+(104d 33m 04s W, 32d 17m 57s N)	(104d 09m 34s W, 32d 13m 51s N)       1656    0d 27m 36s
+   score: 20 / 20
+(104d 26m 05s W, 32d 50m 47s N)	(104d 25m 43s W, 32d 46m 54s N)        255    0d 04m 15s
+   score: 20 / 20
+(104d 11m 00s W, 32d 31m 46s N)	(104d 26m 55s W, 32d 50m 04s N)       2053    0d 34m 13s
+   score: 20 / 20
+(104d 37m 21s W, 32d 38m 46s N)	(103d 59m 25s W, 32d 01m 29s N)       4513    1d 15m 13s
+   score: 20 / 20
+(104d 15m 40s W, 32d 28m 17s N)	(104d 17m 09s W, 32d 49m 41s N)       1373    0d 22m 53s
+   score: 20 / 20
+(103d 53m 59s W, 32d 56m 53s N)	(104d 46m 02s W, 32d 13m 51s N)       5705    1d 35m 05s
+   score: 20 / 20
+(104d 13m 42s W, 32d 25m 14s N)	(104d 01m 58s W, 32d 04m 54s N)       1924    0d 32m 04s
+   score: 20 / 20
+(104d 46m 42s W, 32d 03m 57s N)	(104d 04m 14s W, 32d 03m 00s N)       2605    0d 43m 25s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 11m 52s W, 32d 07m 07s N)       1199    0d 19m 59s
+   score: 20 / 20
+(104d 11m 51s W, 32d 14m 11s N)	(104d 28m 20s W, 32d 05m 08s N)       1532    0d 25m 32s
+   score: 20 / 20
+(103d 58m 41s W, 32d 11m 21s N)	(104d 24m 24s W, 32d 50m 27s N)       3889    1d 04m 49s
+   score: 20 / 20
+(104d 25m 56s W, 32d 48m 07s N)	(104d 33m 54s W, 32d 32m 08s N)       1437    0d 23m 57s
+   score: 20 / 20
+(104d 23m 48s W, 32d 29m 07s N)	(104d 41m 46s W, 32d 57m 14s N)       2765    0d 46m 05s
+   score: 20 / 20
+(104d 29m 49s W, 32d 03m 19s N)	(104d 36m 42s W, 32d 13m 16s N)       1010    0d 16m 50s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 42m 54s W, 32d 57m 38s N)       3662    1d 01m 02s
+   score: 20 / 20
+(104d 10m 15s W, 32d 21m 04s N)	(104d 35m 54s W, 32d 10m 17s N)       2186    0d 36m 26s
+   score: 20 / 20
+(104d 22m 24s W, 32d 08m 10s N)	(104d 23m 27s W, 32d 48m 59s N)       2512    0d 41m 52s
+   score: 20 / 20
+(104d 32m 56s W, 32d 38m 15s N)	(104d 09m 31s W, 32d 37m 39s N)       1441    0d 24m 01s
+   score: 20 / 20
+(104d 42m 25s W, 32d 42m 26s N)	(104d 37m 21s W, 32d 38m 46s N)        524    0d 08m 44s
+   score: 20 / 20
+(104d 06m 08s W, 32d 02m 30s N)	(104d 29m 50s W, 32d 20m 24s N)       2496    0d 41m 36s
+   score: 20 / 20
+(104d 24m 32s W, 32d 47m 11s N)	(104d 34m 06s W, 32d 11m 29s N)       2716    0d 45m 16s
+   score: 20 / 20
+(104d 41m 17s W, 32d 08m 37s N)	(104d 25m 14s W, 32d 50m 15s N)       3461    0d 57m 41s
+   score: 20 / 20
+(103d 48m 36s W, 32d 19m 38s N)	(104d 29m 20s W, 32d 07m 11s N)       3191    0d 53m 11s
+   score: 20 / 20
+(104d 27m 05s W, 32d 48m 44s N)	(104d 09m 34s W, 32d 13m 51s N)       3144    0d 52m 24s
+   score: 20 / 20
+(104d 33m 59s W, 32d 18m 21s N)	(103d 56m 36s W, 32d 36m 04s N)       3306    0d 55m 06s
+   score: 20 / 20
+(103d 56m 58s W, 32d 12m 46s N)	(104d 23m 33s W, 32d 26m 26s N)       2415    0d 40m 15s
+   score: 20 / 20
+(104d 41m 50s W, 32d 14m 36s N)	(104d 24m 47s W, 32d 49m 58s N)       3145    0d 52m 25s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 10m 48s W, 32d 33m 11s N)        653    0d 10m 53s
+   score: 20 / 20
+(104d 11m 51s W, 32d 07m 00s N)	(103d 43m 46s W, 32d 03m 58s N)       1867    0d 31m 07s
+   score: 20 / 20
+(104d 01m 05s W, 32d 55m 39s N)	(104d 18m 34s W, 32d 29m 27s N)       2621    0d 43m 41s
+   score: 20 / 20
+(104d 05m 45s W, 32d 17m 10s N)	(104d 16m 04s W, 32d 24m 47s N)       1076    0d 17m 56s
+   score: 20 / 20
+(104d 14m 17s W, 32d 10m 10s N)	(104d 03m 57s W, 32d 13m 15s N)        805    0d 13m 25s
+   score: 20 / 20
+(104d 13m 16s W, 32d 07m 32s N)	(104d 14m 17s W, 32d 10m 10s N)        219    0d 03m 39s
+   score: 20 / 20
+(104d 14m 10s W, 32d 25m 20s N)	(104d 41m 47s W, 32d 14m 40s N)       2297    0d 38m 17s
+   score: 20 / 20
+(104d 33m 04s W, 32d 36m 44s N)	(104d 27m 21s W, 32d 47m 28s N)        987    0d 16m 27s
+   score: 20 / 20
+(104d 19m 01s W, 32d 49m 00s N)	(104d 12m 49s W, 32d 27m 02s N)       1690    0d 28m 10s
+   score: 20 / 20
+(104d 23m 33s W, 32d 20m 41s N)	(104d 04m 21s W, 32d 13m 26s N)       1587    0d 26m 27s
+   score: 20 / 20
+(104d 32m 11s W, 32d 32m 04s N)	(104d 25m 48s W, 32d 20m 05s N)       1102    0d 18m 22s
+   score: 20 / 20
+(104d 13m 50s W, 32d 25m 20s N)	(104d 07m 44s W, 32d 07m 35s N)       1431    0d 23m 51s
+   score: 20 / 20
+(104d 24m 41s W, 32d 24m 08s N)	(104d 15m 10s W, 32d 12m 35s N)       1264    0d 21m 04s
+   score: 20 / 20
+(104d 17m 54s W, 32d 10m 50s N)	(104d 29m 01s W, 32d 21m 23s N)       1300    0d 21m 40s
+   score: 20 / 20
+(104d 24m 46s W, 32d 49m 40s N)	(104d 39m 59s W, 32d 11m 14s N)       3219    0d 53m 39s
+   score: 20 / 20
+(104d 20m 06s W, 32d 19m 17s N)	(104d 24m 12s W, 32d 50m 32s N)       2121    0d 35m 21s
+   score: 20 / 20
+(104d 48m 44s W, 32d 49m 57s N)	(104d 23m 40s W, 32d 46m 12s N)       1729    0d 28m 49s
+   score: 20 / 20
+(104d 23m 42s W, 32d 45m 37s N)	(104d 46m 42s W, 32d 03m 57s N)       3880    1d 04m 40s
+   score: 20 / 20
+(104d 33m 48s W, 32d 14m 06s N)	(104d 44m 05s W, 32d 03m 27s N)       1256    0d 20m 56s
+   score: 20 / 20
+(104d 10m 47s W, 32d 54m 13s N)	(104d 24m 20s W, 32d 50m 16s N)       1050    0d 17m 30s
+   score: 20 / 20
+(104d 33m 34s W, 32d 05m 58s N)	(104d 02m 55s W, 32d 14m 26s N)       2347    0d 39m 07s
+   score: 20 / 20
+(104d 10m 41s W, 32d 30m 29s N)	(104d 33m 51s W, 32d 48m 53s N)       2494    0d 41m 34s
+   score: 20 / 20
+(104d 24m 30s W, 32d 49m 48s N)	(104d 37m 43s W, 32d 20m 30s N)       2551    0d 42m 31s
+   score: 20 / 20
+(104d 23m 44s W, 32d 48m 34s N)	(104d 07m 34s W, 32d 29m 20s N)       2124    0d 35m 24s
+   score: 20 / 20
+(104d 39m 58s W, 32d 20m 06s N)	(104d 24m 12s W, 32d 50m 30s N)       2770    0d 46m 10s
+   score: 20 / 20
+(104d 13m 37s W, 32d 27m 35s N)	(104d 26m 19s W, 32d 47m 56s N)       1983    0d 33m 03s
+   score: 20 / 20
+(104d 11m 00s W, 32d 31m 46s N)	(104d 32m 10s W, 32d 01m 08s N)       3108    0d 51m 48s
+   score: 20 / 20
+(104d 24m 44s W, 32d 47m 00s N)	(104d 33m 04s W, 32d 17m 57s N)       2243    0d 37m 23s
+   score: 20 / 20
+(103d 48m 28s W, 32d 13m 12s N)	(103d 57m 42s W, 32d 43m 35s N)       2377    0d 39m 37s
+   score: 20 / 20
+(104d 13m 37s W, 32d 27m 35s N)	(104d 22m 42s W, 32d 50m 06s N)       1896    0d 31m 36s
+   score: 20 / 20
+(104d 33m 35s W, 32d 50m 47s N)	(104d 23m 16s W, 32d 50m 34s N)        632    0d 10m 32s
+   score: 20 / 20
+(104d 25m 53s W, 32d 18m 02s N)	(103d 49m 18s W, 32d 02m 05s N)       3152    0d 52m 32s
+   score: 20 / 20
+(104d 01m 27s W, 32d 39m 35s N)	(103d 49m 51s W, 32d 13m 34s N)       2257    0d 37m 37s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 22m 57s W, 32d 48m 07s N)       1926    0d 32m 06s
+   score: 20 / 20
+(104d 25m 15s W, 32d 28m 49s N)	(104d 26m 52s W, 32d 50m 57s N)       1425    0d 23m 45s
+   score: 20 / 20
+(104d 43m 16s W, 32d 07m 22s N)	(104d 11m 06s W, 32d 55m 20s N)       4808    1d 20m 08s
+   score: 20 / 20
+(104d 23m 57s W, 32d 46m 47s N)	(104d 26m 51s W, 32d 50m 32s N)        399    0d 06m 39s
+   score: 20 / 20
+(104d 45m 28s W, 32d 47m 56s N)	(104d 42m 38s W, 32d 12m 39s N)       2287    0d 38m 07s
+   score: 20 / 20
+(104d 07m 47s W, 32d 27m 12s N)	(104d 26m 05s W, 32d 50m 47s N)       2513    0d 41m 53s
+   score: 20 / 20
+(104d 15m 03s W, 32d 24m 28s N)	(104d 24m 25s W, 32d 14m 55s N)       1135    0d 18m 55s
+   score: 20 / 20
+(104d 14m 12s W, 32d 29m 51s N)	(104d 02m 10s W, 32d 32m 30s N)        881    0d 14m 41s
+   score: 20 / 20
+(104d 27m 21s W, 32d 47m 28s N)	(104d 15m 10s W, 32d 12m 23s N)       2836    0d 47m 16s
+   score: 20 / 20
+(104d 25m 49s W, 32d 49m 34s N)	(104d 27m 57s W, 32d 26m 46s N)       1496    0d 24m 56s
+   score: 20 / 20
+(104d 04m 14s W, 32d 11m 48s N)	(104d 27m 57s W, 32d 49m 25s N)       3680    1d 01m 20s
+   score: 20 / 20
+(104d 47m 29s W, 32d 49m 43s N)	(104d 46m 17s W, 32d 52m 36s N)        245    0d 04m 05s
+   score: 20 / 20
+(104d 13m 21s W, 32d 23m 14s N)	(104d 10m 07s W, 32d 21m 04s N)        324    0d 05m 24s
+   score: 20 / 20
+(104d 19m 45s W, 32d 17m 07s N)	(104d 33m 34s W, 32d 10m 59s N)       1197    0d 19m 57s
+   score: 20 / 20
+(104d 14m 05s W, 32d 12m 42s N)	(104d 46m 18s W, 32d 09m 05s N)       2150    0d 35m 50s
+   score: 20 / 20
+(104d 03m 27s W, 32d 19m 39s N)	(104d 39m 59s W, 32d 11m 14s N)       2697    0d 44m 57s
+   score: 20 / 20
+(104d 05m 10s W, 32d 30m 27s N)	(104d 17m 01s W, 32d 12m 12s N)       1806    0d 30m 06s
+   score: 20 / 20
+(104d 17m 09s W, 32d 49m 41s N)	(104d 30m 14s W, 32d 36m 22s N)       1584    0d 26m 24s
+   score: 20 / 20
+(104d 42m 25s W, 32d 42m 26s N)	(104d 24m 15s W, 32d 48m 08s N)       1432    0d 23m 52s
+   score: 20 / 20
+(103d 59m 15s W, 32d 10m 32s N)	(104d 45m 19s W, 32d 43m 15s N)       4727    1d 18m 47s
+   score: 20 / 20
+(103d 57m 01s W, 32d 43m 31s N)	(104d 06m 45s W, 32d 13m 56s N)       2359    0d 39m 19s
+   score: 20 / 20
+(104d 23m 23s W, 32d 46m 54s N)	(104d 24m 33s W, 32d 35m 41s N)        743    0d 12m 23s
+   score: 20 / 20
+(104d 23m 08s W, 32d 50m 04s N)	(104d 14m 10s W, 32d 25m 20s N)       2022    0d 33m 42s
+   score: 20 / 20
+(104d 38m 45s W, 32d 30m 55s N)	(104d 30m 07s W, 32d 16m 32s N)       1381    0d 23m 01s
+   score: 20 / 20
+(104d 25m 46s W, 32d 46m 12s N)	(104d 11m 51s W, 32d 14m 11s N)       2756    0d 45m 56s
+   score: 20 / 20
+(104d 24m 46s W, 32d 48m 07s N)	(104d 41m 04s W, 32d 09m 25s N)       3300    0d 55m 00s
+   score: 20 / 20
+(104d 03m 40s W, 32d 45m 01s N)	(104d 11m 38s W, 32d 49m 41s N)        758    0d 12m 38s
+   score: 20 / 20
+(104d 16m 22s W, 32d 06m 25s N)	(104d 04m 21s W, 32d 13m 26s N)       1142    0d 19m 02s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(103d 46m 50s W, 32d 14m 24s N)       4410    1d 13m 30s
+   score: 20 / 20
+(104d 21m 08s W, 32d 41m 36s N)	(103d 58m 48s W, 32d 01m 17s N)       3759    1d 02m 39s
+   score: 20 / 20
+(104d 34m 44s W, 32d 30m 00s N)	(104d 33m 44s W, 32d 20m 08s N)        652    0d 10m 52s
+   score: 20 / 20
+(104d 36m 36s W, 32d 10m 48s N)	(104d 24m 13s W, 32d 19m 58s N)       1293    0d 21m 33s
+   score: 20 / 20
+(104d 24m 40s W, 32d 14m 54s N)	(104d 30m 52s W, 32d 09m 53s N)        673    0d 11m 13s
+   score: 20 / 20
+(103d 56m 44s W, 32d 30m 08s N)	(104d 23m 11s W, 32d 33m 11s N)       1770    0d 29m 30s
+   score: 20 / 20
+(104d 35m 03s W, 32d 02m 16s N)	(104d 04m 57s W, 32d 04m 39s N)       1949    0d 32m 29s
+   score: 20 / 20
+(104d 48m 39s W, 32d 13m 08s N)	(104d 07m 33s W, 32d 39m 58s N)       4076    1d 07m 56s
+   score: 20 / 20
+(104d 23m 31s W, 32d 33m 50s N)	(104d 14m 10s W, 32d 25m 20s N)       1071    0d 17m 51s
+   score: 20 / 20
+(104d 24m 43s W, 32d 46m 14s N)	(104d 25m 32s W, 32d 50m 32s N)        307    0d 05m 07s
+   score: 20 / 20
+(104d 09m 33s W, 32d 32m 53s N)	(104d 46m 52s W, 31d 59m 00s N)       4272    1d 11m 12s
+   score: 20 / 20
+(104d 45m 01s W, 32d 02m 30s N)	(104d 08m 44s W, 32d 23m 06s N)       3413    0d 56m 53s
+   score: 20 / 20
+(104d 22m 37s W, 32d 45m 02s N)	(104d 23m 13s W, 32d 49m 30s N)        304    0d 05m 04s
+   score: 20 / 20
+(103d 52m 44s W, 32d 56m 31s N)	(104d 25m 52s W, 32d 22m 59s N)       4000    1d 06m 40s
+   score: 20 / 20
+(104d 23m 16s W, 32d 55m 47s N)	(104d 24m 44s W, 32d 47m 00s N)        615    0d 10m 15s
+   score: 20 / 20
+(104d 13m 07s W, 32d 22m 32s N)	(104d 23m 48s W, 32d 51m 04s N)       2353    0d 39m 13s
+   score: 20 / 20
+(104d 45m 12s W, 32d 55m 23s N)	(104d 21m 30s W, 32d 04m 50s N)       4455    1d 14m 15s
+   score: 20 / 20
+(104d 03m 25s W, 32d 52m 16s N)	(104d 14m 39s W, 32d 12m 17s N)       3073    0d 51m 13s
+   score: 20 / 20
+(104d 24m 02s W, 32d 50m 52s N)	(103d 53m 13s W, 32d 17m 52s N)       3829    1d 03m 49s
+   score: 20 / 20
+(104d 14m 17s W, 32d 22m 56s N)	(104d 46m 31s W, 32d 26m 48s N)       2166    0d 36m 06s
+   score: 20 / 20
+(104d 19m 30s W, 32d 44m 47s N)	(104d 15m 47s W, 32d 20m 14s N)       1696    0d 28m 16s
+   score: 20 / 20
+(104d 05m 54s W, 32d 52m 06s N)	(104d 46m 17s W, 32d 52m 36s N)       2453    0d 40m 53s
+   score: 20 / 20
+(103d 51m 44s W, 32d 48m 30s N)	(104d 12m 29s W, 32d 47m 39s N)       1296    0d 21m 36s
+   score: 20 / 20
+(104d 01m 58s W, 32d 04m 54s N)	(104d 34m 43s W, 32d 30m 20s N)       3491    0d 58m 11s
+   score: 20 / 20
+(104d 06m 17s W, 32d 05m 57s N)	(104d 49m 20s W, 32d 03m 57s N)       2703    0d 45m 03s
+   score: 20 / 20
+(104d 46m 27s W, 32d 21m 08s N)	(104d 24m 46s W, 32d 49m 39s N)       3012    0d 50m 12s
+   score: 20 / 20
+(103d 46m 26s W, 32d 03m 30s N)	(104d 02m 51s W, 32d 02m 57s N)       1018    0d 16m 58s
+   score: 20 / 20
+(104d 49m 04s W, 32d 08m 25s N)	(104d 33m 59s W, 32d 18m 21s N)       1501    0d 25m 01s
+   score: 20 / 20
+(104d 24m 43s W, 32d 46m 14s N)	(104d 16m 30s W, 32d 15m 33s N)       2334    0d 38m 54s
+   score: 20 / 20
+(103d 56m 13s W, 32d 24m 46s N)	(104d 24m 12s W, 32d 50m 32s N)       3225    0d 53m 45s
+   score: 20 / 20
+(104d 26m 51s W, 32d 48m 48s N)	(104d 23m 31s W, 32d 33m 50s N)       1098    0d 18m 18s
+   score: 20 / 20
+(104d 17m 55s W, 32d 41m 49s N)	(104d 31m 54s W, 32d 47m 03s N)       1153    0d 19m 13s
+   score: 20 / 20
+(104d 07m 34s W, 32d 29m 20s N)	(104d 12m 37s W, 32d 23m 50s N)        633    0d 10m 33s
+   score: 20 / 20
+(104d 48m 00s W, 32d 15m 38s N)	(104d 23m 00s W, 32d 26m 07s N)       2129    0d 35m 29s
+   score: 20 / 20
+(104d 25m 43s W, 32d 46m 54s N)	(104d 25m 48s W, 32d 49m 12s N)        143    0d 02m 23s
+   score: 20 / 20
+(104d 25m 00s W, 32d 45m 51s N)	(104d 28m 18s W, 32d 06m 33s N)       2556    0d 42m 36s
+   score: 20 / 20
+(104d 40m 41s W, 32d 17m 22s N)	(104d 33m 34s W, 32d 10m 59s N)        810    0d 13m 30s
+   score: 20 / 20
+(103d 56m 02s W, 32d 32m 08s N)	(104d 02m 36s W, 32d 32m 02s N)        400    0d 06m 40s
+   score: 20 / 20
+(104d 16m 58s W, 32d 02m 23s N)	(104d 27m 45s W, 32d 16m 53s N)       1517    0d 25m 17s
+   score: 20 / 20
+(104d 46m 52s W, 32d 17m 58s N)	(104d 09m 37s W, 32d 32m 49s N)       3126    0d 52m 06s
+   score: 20 / 20
+(103d 55m 28s W, 32d 17m 42s N)	(104d 24m 10s W, 32d 50m 18s N)       3678    1d 01m 18s
+   score: 20 / 20
+(104d 46m 27s W, 32d 21m 07s N)	(103d 46m 57s W, 32d 30m 24s N)       4127    1d 08m 47s
+   score: 20 / 20
+(104d 45m 43s W, 32d 06m 00s N)	(104d 49m 18s W, 32d 24m 49s N)       1344    0d 22m 24s
+   score: 20 / 20
+(104d 49m 06s W, 32d 13m 35s N)	(104d 24m 12s W, 32d 50m 32s N)       3711    1d 01m 51s
+   score: 20 / 20
+(104d 24m 12s W, 32d 50m 32s N)	(104d 29m 02s W, 32d 57m 00s N)        678    0d 11m 18s
+   score: 20 / 20
+(103d 46m 57s W, 32d 30m 24s N)	(104d 27m 25s W, 32d 27m 38s N)       2594    0d 43m 14s
+   score: 20 / 20
+(104d 10m 33s W, 32d 51m 24s N)	(104d 14m 10s W, 32d 25m 20s N)       1781    0d 29m 41s
+   score: 20 / 20
+(104d 49m 52s W, 32d 04m 37s N)	(104d 13m 00s W, 32d 26m 36s N)       3531    0d 58m 51s
+   score: 20 / 20
+(104d 01m 27s W, 32d 49m 00s N)	(104d 16m 32s W, 32d 18m 06s N)       2759    0d 45m 59s
+   score: 20 / 20
+(104d 22m 47s W, 32d 47m 45s N)	(104d 11m 06s W, 32d 55m 20s N)       1156    0d 19m 16s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 23m 07s W, 32d 43m 53s N)       1682    0d 28m 02s
+   score: 20 / 20
+(104d 33m 04s W, 32d 36m 44s N)	(104d 10m 55s W, 32d 28m 12s N)       1841    0d 30m 41s
+   score: 20 / 20
+(104d 22m 10s W, 32d 37m 56s N)	(104d 14m 04s W, 32d 27m 36s N)       1106    0d 18m 26s
+   score: 20 / 20
+(104d 38m 09s W, 32d 20m 26s N)	(103d 53m 08s W, 32d 21m 18s N)       2753    0d 45m 53s
+   score: 20 / 20
+(104d 24m 10s W, 32d 50m 18s N)	(104d 23m 39s W, 32d 45m 54s N)        295    0d 04m 55s
+   score: 20 / 20
+(104d 23m 28s W, 32d 48m 57s N)	(104d 49m 29s W, 32d 15m 04s N)       3594    0d 59m 54s
+   score: 20 / 20
+(104d 15m 19s W, 32d 12m 12s N)	(104d 30m 21s W, 32d 31m 36s N)       2066    0d 34m 26s
+   score: 20 / 20
+(103d 57m 24s W, 32d 54m 29s N)	(104d 11m 43s W, 32d 35m 12s N)       2016    0d 33m 36s
+   score: 20 / 20
+(103d 59m 02s W, 32d 48m 48s N)	(104d 41m 14s W, 32d 08m 43s N)       4937    1d 22m 17s
+   score: 20 / 20
+(104d 36m 04s W, 32d 14m 28s N)	(104d 18m 34s W, 32d 29m 27s N)       1949    0d 32m 29s
+   score: 20 / 20
+(104d 16m 57s W, 32d 29m 52s N)	(104d 08m 37s W, 32d 25m 44s N)        748    0d 12m 28s
+   score: 20 / 20
+(104d 28m 18s W, 32d 06m 33s N)	(104d 43m 04s W, 32d 14m 03s N)       1336    0d 22m 16s
+   score: 20 / 20
+(103d 50m 18s W, 32d 05m 03s N)	(103d 44m 15s W, 32d 16m 26s N)       1046    0d 17m 26s
+   score: 20 / 20
+(104d 20m 34s W, 32d 23m 55s N)	(104d 14m 12s W, 32d 29m 51s N)        738    0d 12m 18s
+   score: 20 / 20
+(104d 42m 58s W, 32d 08m 51s N)	(104d 26m 59s W, 32d 49m 34s N)       3402    0d 56m 42s
+   score: 20 / 20
+(104d 31m 27s W, 32d 04m 48s N)	(103d 53m 13s W, 32d 17m 52s N)       3078    0d 51m 18s
+   score: 20 / 20
+(104d 40m 00s W, 32d 43m 50s N)	(104d 46m 27s W, 32d 21m 08s N)       1749    0d 29m 09s
+   score: 20 / 20
+(103d 46m 57s W, 32d 10m 34s N)	(104d 42m 51s W, 32d 06m 59s N)       3569    0d 59m 29s
+   score: 20 / 20
+(104d 04m 38s W, 32d 44m 23s N)	(104d 14m 17s W, 32d 08m 38s N)       2724    0d 45m 24s
+   score: 20 / 20
+(104d 28m 52s W, 32d 46m 50s N)	(103d 41m 56s W, 32d 04m 24s N)       5362    1d 29m 22s
+   score: 20 / 20
+(103d 50m 32s W, 32d 09m 56s N)	(104d 25m 58s W, 32d 28m 33s N)       3243    0d 54m 03s
+   score: 20 / 20
+(104d 41m 04s W, 32d 09m 25s N)	(103d 52m 08s W, 32d 37m 34s N)       4625    1d 17m 05s
+   score: 20 / 20
+(104d 27m 57s W, 32d 49m 25s N)	(104d 29m 50s W, 32d 20m 24s N)       1854    0d 30m 54s
+   score: 20 / 20
+(104d 49m 33s W, 32d 01m 13s N)	(103d 44m 28s W, 32d 00m 44s N)       3934    1d 05m 34s
+   score: 20 / 20
+(104d 23m 40s W, 32d 49m 43s N)	(104d 06m 14s W, 32d 10m 38s N)       3391    0d 56m 31s
+   score: 20 / 20
+(104d 11m 14s W, 32d 55m 44s N)	(104d 42m 48s W, 32d 30m 30s N)       3408    0d 56m 48s
+   score: 20 / 20
+(104d 13m 50s W, 32d 26m 18s N)	(103d 57m 01s W, 32d 43m 31s N)       2042    0d 34m 02s
+   score: 20 / 20
+(104d 22m 00s W, 32d 59m 53s N)	(104d 16m 30s W, 32d 15m 33s N)       2990    0d 49m 50s
+   score: 20 / 20
+(103d 50m 51s W, 32d 45m 29s N)	(104d 24m 25s W, 32d 29m 20s N)       2983    0d 49m 43s
+   score: 20 / 20
+(103d 44m 18s W, 32d 26m 29s N)	(104d 24m 12s W, 32d 50m 32s N)       3837    1d 03m 57s
+   score: 20 / 20
+(104d 46m 31s W, 32d 26m 48s N)	(104d 37m 04s W, 32d 14m 38s N)       1297    0d 21m 37s
+   score: 20 / 20
+(104d 09m 45s W, 32d 55m 32s N)	(104d 49m 41s W, 32d 26m 58s N)       4110    1d 08m 30s
+   score: 20 / 20
+(104d 25m 16s W, 32d 49m 40s N)	(104d 25m 48s W, 32d 51m 10s N)        122    0d 02m 02s
+   score: 20 / 20
+(104d 17m 41s W, 32d 01m 48s N)	(103d 59m 03s W, 32d 55m 21s N)       4331    1d 12m 11s
+   score: 20 / 20
+(104d 24m 20s W, 32d 50m 25s N)	(104d 34m 45s W, 32d 33m 23s N)       1647    0d 27m 27s
+   score: 20 / 20
+(103d 57m 50s W, 32d 22m 13s N)	(104d 24m 29s W, 32d 35m 42s N)       2408    0d 40m 08s
+   score: 20 / 20
+(104d 08m 34s W, 32d 08m 55s N)	(104d 46m 20s W, 32d 39m 26s N)       4097    1d 08m 17s
+   score: 20 / 20
+(104d 25m 48s W, 32d 50m 12s N)	(104d 41m 10s W, 32d 14m 09s N)       3085    0d 51m 25s
+   score: 20 / 20
+(104d 25m 45s W, 32d 49m 40s N)	(104d 24m 29s W, 32d 50m 13s N)        109    0d 01m 49s
+   score: 20 / 20
+(104d 30m 48s W, 32d 12m 48s N)	(104d 23m 26s W, 32d 17m 38s N)        732    0d 12m 12s
+   score: 20 / 20
+(104d 00m 55s W, 32d 03m 07s N)	(104d 25m 14s W, 32d 46m 37s N)       4069    1d 07m 49s
+   score: 20 / 20
+(104d 21m 08s W, 32d 41m 36s N)	(104d 33m 16s W, 32d 22m 32s N)       1872    0d 31m 12s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 13m 37s W, 32d 27m 35s N)        148    0d 02m 28s
+   score: 20 / 20
+(104d 43m 10s W, 32d 15m 12s N)	(104d 23m 37s W, 32d 46m 41s N)       3062    0d 51m 02s
+   score: 20 / 20
+(104d 24m 32s W, 32d 45m 21s N)	(104d 21m 40s W, 32d 13m 16s N)       2097    0d 34m 57s
+   score: 20 / 20
+(104d 13m 44s W, 32d 25m 14s N)	(104d 24m 10s W, 32d 50m 18s N)       2130    0d 35m 30s
+   score: 20 / 20
+(104d 15m 17s W, 32d 25m 34s N)	(104d 25m 48s W, 32d 49m 12s N)       2049    0d 34m 09s
+   score: 20 / 20
+(104d 28m 20s W, 32d 05m 08s N)	(104d 03m 40s W, 32d 45m 01s N)       3873    1d 04m 33s
+   score: 20 / 20
+(103d 57m 24s W, 32d 54m 29s N)	(104d 15m 22s W, 32d 23m 05s N)       2962    0d 49m 22s
+   score: 20 / 20
+(104d 02m 48s W, 32d 14m 30s N)	(104d 29m 55s W, 32d 27m 09s N)       2386    0d 39m 46s
+   score: 20 / 20
+(104d 45m 43s W, 32d 32m 28s N)	(104d 25m 43s W, 32d 50m 36s N)       2288    0d 38m 08s
+   score: 20 / 20
+(104d 16m 58s W, 32d 02m 23s N)	(104d 33m 59s W, 32d 18m 21s N)       1979    0d 32m 59s
+   score: 20 / 20
+(104d 23m 11s W, 32d 46m 14s N)	(104d 22m 39s W, 32d 46m 54s N)         72    0d 01m 12s
+   score: 20 / 20
+(103d 50m 29s W, 32d 06m 53s N)	(104d 34m 34s W, 32d 02m 31s N)       2907    0d 48m 27s
+   score: 20 / 20
+(104d 00m 46s W, 32d 16m 39s N)	(104d 39m 58s W, 32d 20m 06s N)       2559    0d 42m 39s
+   score: 20 / 20
+(104d 15m 14s W, 32d 29m 24s N)	(104d 25m 36s W, 32d 50m 48s N)       1906    0d 31m 46s
+   score: 20 / 20
+(104d 22m 38s W, 32d 48m 07s N)	(104d 12m 58s W, 32d 26m 37s N)       1870    0d 31m 10s
+   score: 20 / 20
+(104d 19m 22s W, 32d 08m 23s N)	(103d 51m 02s W, 32d 47m 37s N)       4054    1d 07m 34s
+   score: 20 / 20
+(104d 38m 26s W, 32d 04m 08s N)	(104d 24m 15s W, 32d 47m 54s N)       3477    0d 57m 57s
+   score: 20 / 20
+(104d 24m 55s W, 32d 45m 53s N)	(103d 52m 44s W, 32d 56m 31s N)       2569    0d 42m 49s
+   score: 20 / 20
+(103d 54m 53s W, 32d 21m 44s N)	(104d 39m 35s W, 32d 09m 45s N)       3401    0d 56m 41s
+   score: 20 / 20
+(104d 15m 22s W, 32d 23m 05s N)	(104d 04m 14s W, 32d 03m 00s N)       1873    0d 31m 13s
+   score: 20 / 20
+(104d 45m 19s W, 32d 43m 15s N)	(104d 23m 37s W, 32d 09m 10s N)       3347    0d 55m 47s
+   score: 20 / 20
+(104d 24m 59s W, 32d 45m 09s N)	(104d 35m 25s W, 32d 35m 42s N)       1193    0d 19m 53s
+   score: 20 / 20
+(104d 32m 08s W, 32d 27m 09s N)	(104d 21m 54s W, 32d 46m 59s N)       1804    0d 30m 04s
+   score: 20 / 20
+
+Total score for test 1 >>  18000 / 18000

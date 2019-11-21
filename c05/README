@@ -1,0 +1,21 @@
+README for C05 in CS 2505 Spring 2019
+--------------------------------------------------------------------------------
+Build an executable with:
+
+   gcc -o c05driver -std=c11 -Wall -W c05driver.c PtrFuncs.c Generator.o TestCode.o
+
+Note: until you complete the implementation, this will yield a number of warning
+      messages from PtrFunc.c
+      
+Execution options for the driver:
+   driver [-repeat]           same as driver -all
+   driver -all [-repeat]      run tests for all functions
+   driver -get [-repeat]      run tests for getBytesAtOffset()
+   driver -find [-repeat]     run tests for findOccurrencesOfByte()
+   driver -sum [-repeat]      run tests for sumValuesAtOffsets()
+
+If -repeat is used, then the tests cases from the last test run will be
+reused; otherwise, random test cases will be used.
+
+The test code will write a separate log file for the tests applied to each
+function, and a summary log file.
